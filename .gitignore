@@ -1,0 +1,62 @@
+Archive/
+
+cv/
+
+venv/
+
+try.ipynb
+
+skill_db_relax_20.json
+token_dist.json
+
+connect.py
+
+/Scraping/Jobstreet/id/try-bulk.json
+/Scraping/Jobstreet/id/try-filtered.json
+
+/Scraping/Jobstreet/tips scrape id jobstreet.txt
+/Scraping/LinkedIn/tips scrape id linkedin.txt
+
+/Scraping/LinkedIn/dump
+/Scraping/Jobstreet/dump
+
+/Scraping/docs/combine_job.py
+
+Scraping/LinkedIn/id/7 days/
+Scraping/LinkedIn/id/7 days v2/
+Scraping/LinkedIn/id/7 days v3/
+Scraping/LinkedIn/id/7 days v4/
+Scraping/LinkedIn/id/7 days v5/
+
+Scraping/Jobstreet/id/7 days/
+Scraping/Jobstreet/id/7 days v2/
+Scraping/Jobstreet/id/7 days v3/
+Scraping/Jobstreet/id/7 days v4/
+Scraping/Jobstreet/id/7 days v5/
+
+Scraping/docs/computer-science/7 days/
+Scraping/docs/computer-science/7 days v2/
+Scraping/docs/computer-science/7 days v3/
+Scraping/docs/computer-science/7 days v4/
+Scraping/docs/computer-science/7 days v5/
+Scraping/docs/computer-science/30 days/
+
+Scraping/docs/information-systems/7 days/
+Scraping/docs/information-systems/7 days v2/
+Scraping/docs/information-systems/7 days v3/
+Scraping/docs/information-systems/7 days v4/
+Scraping/docs/information-systems/7 days v5/
+Scraping/docs/information-systems/30 days/
+
+Mapping/mapping/bert.ipynb
+Mapping/mapping/tfidf.ipynb
+
+Mapping/docs/jobs/information-systems/(dump)-isjobs_skillner_3weeks.xlsx
+Mapping/docs/jobs/information-systems/(dump)-isjobs_skillner-bert_3weeeks.xlsx
+Mapping/docs/jobs/information-systems/compare/(dump)-compare-isjobs_skillner_3weeks.xlsx
+Mapping/docs/jobs/information-systems/compare/(dump)-compare-isjobs_skillner-bert_3weeeks.xlsx
+
+Mapping/docs/jobs/computer-science/(dump)-csjobs_skillner_3weeks.xlsx
+Mapping/docs/jobs/computer-science/(dump)-csjobs_skillner-bert_3weeeks.xlsx
+Mapping/docs/jobs/computer-science/compare/(dump)-compare-csjobs_skillner_3weeks.xlsx
+Mapping/docs/jobs/computer-science/compare/(dump)-compare-csjobs_skillner-bert_3weeeks.xlsx

@@ -1,0 +1,17 @@
+# JANGAN LUPA ISI & GANTI !!!!!
+job_category = "Computer-Science"
+keyword_name = "Informatics-Engineering"
+ISorCS_Jobs = "CSJobs"
+
+url = "https://id.jobstreet.com/api/jobsearch/v5/me/search?newSince=1750306663&siteKey=ID-Main&sourcesystem=houston&eventCaptureSessionId=5feb09fd-a69a-4c23-a2a4-fd73cab8c851&userid=5feb09fd-a69a-4c23-a2a4-fd73cab8c851&userqueryid=b680c60b677a87d279dc265be3aea942-7149461&usersessionid=5feb09fd-a69a-4c23-a2a4-fd73cab8c851&page=4&keywords=Informatics+Engineering&classification=6281&daterange=7&pageSize=32&include=seodata,gptTargeting,relatedsearches,pills&baseKeywords=Informatics+Engineering&locale=en-ID&seekerId=581997302&solId=c64d160c-5b72-476a-bc37-3cf7a83a85fc&relatedSearchesCount=12"
+
+referer = "https://id.jobstreet.com/Informatics-Engineering-jobs-in-information-communication-technology?daterange=7&page=4"
+
+auth = """
+Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlBQcjNlT0dQeFAwa2FRcnFxandmTyJ9.eyJodHRwOi8vc2Vlay9jbGFpbXMvY291bnRyeSI6IklEIiwiaHR0cDovL3NlZWsvY2xhaW1zL2JyYW5kIjoiam9ic3RyZWV0IiwiaHR0cDovL3NlZWsvY2xhaW1zL2V4cGVyaWVuY2UiOiJjYW5kaWRhdGUiLCJodHRwOi8vc2Vlay9jbGFpbXMvdXNlcl9pZCI6IjU4MTk5NzMwMiIsImlzcyI6Imh0dHBzOi8vbG9naW4uc2Vlay5jb20vIiwic3ViIjoiYXV0aDB8NjcxZWQ1MDVlODFiZjkwMDc0MDc5NDVlIiwiYXVkIjpbImh0dHBzOi8vc2Vlay9hcGkvY2FuZGlkYXRlIiwiaHR0cHM6Ly9zZWVrYW56Lm9ubGluZWF1dGgucHJvZC5vdXRmcmEueHl6L3VzZXJpbmZvIl0sImlhdCI6MTc1MDMwNjUxMywiZXhwIjoxNzUwMzEwMTEzLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIG9mZmxpbmVfYWNjZXNzIiwiYXpwIjoiOE9WaHB2dGFJOW41UVZFUUszWDV5ZnNtQ2JyckxYZkUifQ.MdpoXcTfYa2m-x19W2WufhGexb9by2M5XLzH4QMP6oaenw1wrrZ9jAGy5MTkOJEYvXREkkoqyUFTomOsb-t6NvsUaL1o01hmMTJNcb-6yxCDD_NisORHgJ0YampSU-TVegDjFwEuwyf6bC-80xA9fTHyrdAw-R7XfHFMCnHZwalhW0oZoYeo8tyEG1NXiZpocU1uuHiTjuVOchFjrlzhMICraBqEeFb5xpxwOKUgXQRbMv4ePE6Up-pXuLLwGxPl4QAV9XsAoUWD2x_RWIq6XDv6vxGDNclJ6pvdFfR4PJehpig_rhr1Ebt0Mx60tzfN_fJRLb3Cz8c8wx3E81CU8A
+"""
+
+job_portal = "Jobstreet"
+
+full_id_path_is = "Scraping/Jobstreet/id/fullID-ISJobs-Information-Systems-7_days.json"
+full_id_path_cs = "Scraping/Jobstreet/id/fullID-CSJobs-Computer-Science-7_days.json"

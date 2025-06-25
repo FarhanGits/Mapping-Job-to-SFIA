@@ -1,0 +1,4802 @@
+[
+    {
+        "job_id": "84265054",
+        "job_title": "IT Infrastructure",
+        "company": "PT. INSPIRASI MAJU JAYA",
+        "listing_date": "2025-05-16T02:35:17Z"
+    },
+    {
+        "job_id": "84318054",
+        "job_title": "Cybersecurity Specialist",
+        "company": "PT Tata Consultancy Services Indonesia",
+        "listing_date": "2025-05-19T07:09:32Z"
+    },
+    {
+        "job_id": "84281859",
+        "job_title": "Cyber Security Officer",
+        "company": "Lembaga Pengkajian Pangan, Obat-Obatan dan Kosmetika MUI",
+        "listing_date": "2025-05-16T10:59:01Z"
+    },
+    {
+        "job_id": "84147161",
+        "job_title": "IT Database Administrator(open to fresh grad from IT, engineering,math, science)",
+        "company": "Bufisa Global Datatech",
+        "listing_date": "2025-05-11T14:10:59Z"
+    },
+    {
+        "job_id": "84251381",
+        "job_title": "IT Administrator",
+        "company": "PT MAS ARYA INDONESIA",
+        "listing_date": "2025-05-15T10:07:27Z"
+    },
+    {
+        "job_id": "84233571",
+        "job_title": "IT Security Operations Staff (Contract Outsourcing)",
+        "company": "PT Bussan Auto Finance (BAF)",
+        "listing_date": "2025-05-15T02:06:38Z"
+    },
+    {
+        "job_id": "84269335",
+        "job_title": "Corporate IT Support",
+        "company": "PT Panen Artha Nusa",
+        "listing_date": "2025-05-16T04:07:52Z"
+    },
+    {
+        "job_id": "84299596",
+        "job_title": "IT Project Coordinator",
+        "company": "PT Tigernix Solutions Indonesia",
+        "listing_date": "2025-05-18T10:11:50Z"
+    },
+    {
+        "job_id": "84276605",
+        "job_title": "Data Science Analyst/ Information Systems/ Business Intelligence/ Supply Chain",
+        "company": "PT GREENLY LIFESTYLE INDONESIA",
+        "listing_date": "2025-05-16T07:17:21Z"
+    },
+    {
+        "job_id": "84190764",
+        "job_title": "Supervisor IT",
+        "company": "PT Cosmax Indonesia",
+        "listing_date": "2025-05-13T10:44:17Z"
+    },
+    {
+        "job_id": "84308379",
+        "job_title": "SPV IT Operation",
+        "company": "PT. DUA PULUH TIGA",
+        "listing_date": "2025-05-19T02:51:21Z"
+    },
+    {
+        "job_id": "84214428",
+        "job_title": ".NET System Analyst (SA) for application programming",
+        "company": "PT Palung Data Sistem",
+        "listing_date": "2025-05-14T07:18:27Z"
+    },
+    {
+        "job_id": "84187333",
+        "job_title": "IT Staff",
+        "company": "PT Aplus Pacific",
+        "listing_date": "2025-05-13T08:52:47Z"
+    },
+    {
+        "job_id": "84293830",
+        "job_title": "IT Support",
+        "company": "PT Bertuah Alam Nusantara",
+        "listing_date": "2025-05-17T09:22:55Z"
+    },
+    {
+        "job_id": "84264981",
+        "job_title": "IT System Administrator",
+        "company": "PT Sapphire Assets International",
+        "listing_date": "2025-05-16T02:28:19Z"
+    },
+    {
+        "job_id": "84169838",
+        "job_title": "IT SUPPORT [Asst. SPV]",
+        "company": "Private Advertiser",
+        "listing_date": "2025-05-13T00:54:11Z"
+    },
+    {
+        "job_id": "84080306",
+        "job_title": "IT Infrastructure/BA Supervisor",
+        "company": "PT Chailease Finance Indonesia",
+        "listing_date": "2025-05-16T01:45:45Z"
+    },
+    {
+        "job_id": "84216113",
+        "job_title": "IT Manager",
+        "company": "JAKARTA NANYANG SCHOOL",
+        "listing_date": "2025-05-14T07:56:19Z"
+    },
+    {
+        "job_id": "84188023",
+        "job_title": "IT SYSTEM ADMINISTRATOR",
+        "company": "PT Prawathiya Karsa Pradipta",
+        "listing_date": "2025-05-13T09:10:10Z"
+    },
+    {
+        "job_id": "83571854",
+        "job_title": "IT INFSTRUCTURE SUPPORT (ON-SITE)",
+        "company": "PT. INTERNET PRATAMA INDONESIA TBK",
+        "listing_date": "2025-05-14T06:30:25Z"
+    },
+    {
+        "job_id": "84221775",
+        "job_title": "System Administrator",
+        "company": "PT Solusi Pembayaran Elektronik",
+        "listing_date": "2025-05-14T11:22:22Z"
+    },
+    {
+        "job_id": "84297890",
+        "job_title": "Technical Support & DevOps - ID",
+        "company": "Hongkong Xiqi International",
+        "listing_date": "2025-05-18T03:07:00Z"
+    },
+    {
+        "job_id": "84206910",
+        "job_title": "IT ERP (SAP) Support Staff",
+        "company": "PT Bayan Resources",
+        "listing_date": "2025-05-14T03:58:35Z"
+    },
+    {
+        "job_id": "84313798",
+        "job_title": "Fresh Graduate Functional Consultant",
+        "company": "PT Amber Solusi Internasional",
+        "listing_date": "2025-05-19T05:28:39Z"
+    },
+    {
+        "job_id": "84170022",
+        "job_title": "IS (Information System) Manager",
+        "company": "PT Toray Industries Indonesia",
+        "listing_date": "2025-05-13T01:49:35Z"
+    },
+    {
+        "job_id": "84188253",
+        "job_title": "Security Operation Center (SOC) L3",
+        "company": "PT Tekno Gemilang Indonesia",
+        "listing_date": "2025-05-13T09:20:03Z"
+    },
+    {
+        "job_id": "84280801",
+        "job_title": "Technical Support Manager (SaaS & IoT)",
+        "company": "Cartrack",
+        "listing_date": "2025-05-16T09:50:53Z"
+    },
+    {
+        "job_id": "84266596",
+        "job_title": "OCC Monitoring",
+        "company": "PT Kinarya Alihdaya Mandiri",
+        "listing_date": "2025-05-16T03:06:49Z"
+    },
+    {
+        "job_id": "84268758",
+        "job_title": "Temenos Infrastructure / Network",
+        "company": "PT. PLANA NETWORKS INDONESIA",
+        "listing_date": "2025-05-16T03:54:09Z"
+    },
+    {
+        "job_id": "84188296",
+        "job_title": "IT Solution Engineer",
+        "company": "PT Media BersamaSukses",
+        "listing_date": "2025-05-13T09:21:05Z"
+    },
+    {
+        "job_id": "84217075",
+        "job_title": "IT Infrastructure Project Manager",
+        "company": "PT Netmarks Indonesia",
+        "listing_date": "2025-05-14T08:37:55Z"
+    },
+    {
+        "job_id": "84308238",
+        "job_title": "Application Support Engineer (Apache Tomcat, NginX, Weblogic)",
+        "company": "PT Infinitium Solutions",
+        "listing_date": "2025-05-19T02:46:47Z"
+    },
+    {
+        "job_id": "84318750",
+        "job_title": "SAP Basis Analyst",
+        "company": "PT SMART,Tbk",
+        "listing_date": "2025-05-19T07:27:45Z"
+    },
+    {
+        "job_id": "84216022",
+        "job_title": "System Administrator Engineer",
+        "company": "PT Sinergi Wahana Gemilang",
+        "listing_date": "2025-05-14T07:55:23Z"
+    },
+    {
+        "job_id": "84269086",
+        "job_title": "Sales IT",
+        "company": "PT Infotech Solutions",
+        "listing_date": "2025-05-16T04:01:36Z"
+    },
+    {
+        "job_id": "84173127",
+        "job_title": "IT Director - Consumer Goods",
+        "company": "PT Michael Page Internasional Indonesia",
+        "listing_date": "2025-05-13T02:30:18Z"
+    },
+    {
+        "job_id": "84165579",
+        "job_title": "Manager, Country IT",
+        "company": "PT Solusi Transportasi Indonesia",
+        "listing_date": "2025-05-12T11:19:12Z"
+    },
+    {
+        "job_id": "84176744",
+        "job_title": "Functional Analyst / Business Process Analyst",
+        "company": "Siloam Hospitals Group (Tbk)",
+        "listing_date": "2025-05-13T03:49:01Z"
+    },
+    {
+        "job_id": "84263389",
+        "job_title": "Sr. Staff ERP Consulting - IT Consulting - Jakarta (B-119217)",
+        "company": "RGF HR Agent Indonesia",
+        "listing_date": "2025-05-16T01:40:35Z"
+    },
+    {
+        "job_id": "84282475",
+        "job_title": "Oracle Functional",
+        "company": "PT. Mora Telematika Indonesia TBK",
+        "listing_date": "2025-05-16T12:03:26Z"
+    },
+    {
+        "job_id": "84312387",
+        "job_title": "Senior Presales (Private Cloud Data Center)",
+        "company": "PT Nusantara Compnet Integrator",
+        "listing_date": "2025-05-19T04:36:47Z"
+    },
+    {
+        "job_id": "84267491",
+        "job_title": "SENIOR SYSTEM ANALYST  (SA)",
+        "company": "PT Besmart Global Indonesia",
+        "listing_date": "2025-05-16T03:28:17Z"
+    },
+    {
+        "job_id": "84171226",
+        "job_title": "System Analyst - SOP & Workflow Digitization",
+        "company": "Surya Nusantara Development",
+        "listing_date": "2025-05-13T01:36:52Z"
+    },
+    {
+        "job_id": "84183644",
+        "job_title": "Presales (IT Consultant Salesforce)",
+        "company": "Saasten Technologies",
+        "listing_date": "2025-05-13T06:57:54Z"
+    },
+    {
+        "job_id": "84262627",
+        "job_title": "Product Manager - Enterprise Datacom & Network Infrastructure",
+        "company": "PT Talenta Eksekutif Asia (Matcha Talent)",
+        "listing_date": "2025-05-16T01:17:43Z"
+    },
+    {
+        "job_id": "84189179",
+        "job_title": "Devops Engineer Junior Staff",
+        "company": "PT BANGUN GLOBALINDO PERKASA",
+        "listing_date": "2025-05-13T09:42:45Z"
+    },
+    {
+        "job_id": "84225965",
+        "job_title": "Microsoft Technology Presales",
+        "company": "PT Intikom Berlian Mustika",
+        "listing_date": "2025-05-14T16:32:02Z"
+    },
+    {
+        "job_id": "84262433",
+        "job_title": "Product Manager - Data Center Infrastructure",
+        "company": "PT Talenta Eksekutif Asia (Matcha Talent)",
+        "listing_date": "2025-05-16T01:12:16Z"
+    },
+    {
+        "job_id": "84224313",
+        "job_title": "T&T Manager - SAP SD - ID",
+        "company": "Deloitte",
+        "listing_date": "2025-05-14T12:00:00Z"
+    },
+    {
+        "job_id": "84233104",
+        "job_title": "Oracle Netsuite Assistant Consultant",
+        "company": "PT. HAND Solutions Indonesia",
+        "listing_date": "2025-05-15T01:53:51Z"
+    },
+    {
+        "job_id": "84189699",
+        "job_title": "Solution Engineer - Data Center HVAC",
+        "company": "PT Michael Page Internasional Indonesia",
+        "listing_date": "2025-05-13T09:58:01Z"
+    },
+    {
+        "job_id": "84303852",
+        "job_title": "Staff IT",
+        "company": "PT Frina Lestari Nusantara",
+        "listing_date": "2025-05-19T00:31:34Z"
+    },
+    {
+        "job_id": "84318330",
+        "job_title": "IT Infrastruktur Staff (DII)",
+        "company": "PT Catur Sentosa Adiprana Tbk",
+        "listing_date": "2025-05-19T07:17:04Z"
+    },
+    {
+        "job_id": "84236939",
+        "job_title": "IT Network & Server",
+        "company": "PT Global Indonesia Asia Sejahtera",
+        "listing_date": "2025-05-15T03:32:22Z"
+    },
+    {
+        "job_id": "84294835",
+        "job_title": "IT SUPERVISOR",
+        "company": "PT Hana Master Jaya",
+        "listing_date": "2025-05-17T10:56:06Z"
+    },
+    {
+        "job_id": "84304322",
+        "job_title": "IT Data Center Operation Maybank - Jakarta",
+        "company": "Infomedia",
+        "listing_date": "2025-05-18T18:29:30Z"
+    },
+    {
+        "job_id": "84194923",
+        "job_title": "IT Staff",
+        "company": "Dharma Kyungshin Indonesia",
+        "listing_date": "2025-05-13T13:03:35Z"
+    },
+    {
+        "job_id": "84265225",
+        "job_title": "IT Hardware Management",
+        "company": "Asaba Group",
+        "listing_date": "2025-05-16T02:32:57Z"
+    },
+    {
+        "job_id": "84166978",
+        "job_title": "Security Officer",
+        "company": "Digital Tandatangan Asli",
+        "listing_date": "2025-05-12T14:13:23Z"
+    },
+    {
+        "job_id": "84277081",
+        "job_title": "IT Infrastructure Supervisor",
+        "company": "PT Tangkas Cipta Optimal",
+        "listing_date": "2025-05-16T07:29:05Z"
+    },
+    {
+        "job_id": "84215126",
+        "job_title": "IT Inventory",
+        "company": "PT Tiong Liong Indonesia",
+        "listing_date": "2025-05-14T07:40:36Z"
+    },
+    {
+        "job_id": "84295629",
+        "job_title": "IT & Administration Supervisor",
+        "company": "PT. ZHC ALADIN INTERNATIONAL",
+        "listing_date": "2025-05-17T15:38:53Z"
+    },
+    {
+        "job_id": "84180144",
+        "job_title": "IT Support",
+        "company": "IT Service Jakarta",
+        "listing_date": "2025-05-13T05:25:29Z"
+    },
+    {
+        "job_id": "84196160",
+        "job_title": "Technical Support",
+        "company": "PT Sinergy Informasi Pratama",
+        "listing_date": "2025-05-13T10:14:48Z"
+    },
+    {
+        "job_id": "84196040",
+        "job_title": "Technical Implementation",
+        "company": "PT Sinergy Informasi Pratama",
+        "listing_date": "2025-05-13T10:00:31Z"
+    },
+    {
+        "job_id": "84177676",
+        "job_title": "IT Operation Manager",
+        "company": "PT Visionet Data Internasional",
+        "listing_date": "2025-05-13T04:11:27Z"
+    },
+    {
+        "job_id": "84264073",
+        "job_title": "Corporate IT",
+        "company": "Barokah Perkasa Group",
+        "listing_date": "2025-05-16T02:01:11Z"
+    },
+    {
+        "job_id": "84269835",
+        "job_title": "System Administrator",
+        "company": "PT Kamoro Maxima Integra",
+        "listing_date": "2025-05-16T04:17:49Z"
+    },
+    {
+        "job_id": "84281653",
+        "job_title": "IT Engineer",
+        "company": "PT Monotaro Indonesia",
+        "listing_date": "2025-05-16T10:37:44Z"
+    },
+    {
+        "job_id": "84304419",
+        "job_title": "SENIOR TECHNICAL INFRASTRUKTUR",
+        "company": "Infomedia",
+        "listing_date": "2025-05-18T18:33:00Z"
+    },
+    {
+        "job_id": "84255954",
+        "job_title": "IT Manager25080709",
+        "company": "Cicada Resort Bali Ubud Autograph Collection",
+        "listing_date": "2025-05-15T13:20:36Z"
+    },
+    {
+        "job_id": "84279750",
+        "job_title": "IT MANAGER",
+        "company": "PT Hana Master Jaya",
+        "listing_date": "2025-05-16T09:03:32Z"
+    },
+    {
+        "job_id": "84227799",
+        "job_title": "Data Center Operation Technician, Data Center Operations",
+        "company": "Enak Amazon makanan",
+        "listing_date": "2025-05-14T12:00:00Z"
+    },
+    {
+        "job_id": "84217282",
+        "job_title": "SCADA System Administrator",
+        "company": "PT Kamoro Maxima Integra",
+        "listing_date": "2025-05-14T08:43:01Z"
+    },
+    {
+        "job_id": "84214993",
+        "job_title": "Copy of L2 System Engineer",
+        "company": "PT Focus Solusi Infotama",
+        "listing_date": "2025-05-14T03:05:07Z"
+    },
+    {
+        "job_id": "84224787",
+        "job_title": "Web & IT Administrator",
+        "company": "KALMAN Marketing Agency",
+        "listing_date": "2025-05-14T15:56:44Z"
+    },
+    {
+        "job_id": "84164622",
+        "job_title": "Manager, Country IT",
+        "company": "Technology Solutions",
+        "listing_date": "2025-05-12T09:23:01Z"
+    },
+    {
+        "job_id": "84226494",
+        "job_title": "MS Engineer",
+        "company": "PT NTT Indonesia",
+        "listing_date": "2025-05-14T07:30:00Z"
+    },
+    {
+        "job_id": "84177824",
+        "job_title": "SysOps Engineer",
+        "company": "PT Media Indonusa (Jakarta)",
+        "listing_date": "2025-05-13T04:14:58Z"
+    },
+    {
+        "job_id": "84204812",
+        "job_title": "Server Engineer Internship Program",
+        "company": "PT. Berca Hardayaperkasa",
+        "listing_date": "2025-05-14T03:10:37Z"
+    },
+    {
+        "job_id": "84270846",
+        "job_title": "Power BI (Intern)",
+        "company": "PT Rahayu Arumdhani International",
+        "listing_date": "2025-05-16T04:48:39Z"
+    },
+    {
+        "job_id": "84278179",
+        "job_title": "Senior IT Consultant IT GRC",
+        "company": "PT Transforma Rekayasa & Solusi",
+        "listing_date": "2025-05-16T08:04:18Z"
+    },
+    {
+        "job_id": "84227483",
+        "job_title": "IT: Database Business Intelligence Internship",
+        "company": "PCS Group",
+        "listing_date": "2025-05-14T11:07:02Z"
+    },
+    {
+        "job_id": "84226643",
+        "job_title": "Technical System Analyst (Senior Associate)",
+        "company": "Link Aja",
+        "listing_date": "2025-05-14T08:26:38Z"
+    },
+    {
+        "job_id": "84202653",
+        "job_title": "Information Technology",
+        "company": "PT Ethos Holding Company",
+        "listing_date": "2025-05-14T02:10:35Z"
+    },
+    {
+        "job_id": "84207609",
+        "job_title": "Cloud Network Engineer",
+        "company": "PT Media Indonusa (Jakarta)",
+        "listing_date": "2025-05-14T04:15:51Z"
+    },
+    {
+        "job_id": "84277002",
+        "job_title": "ERP Supervisor",
+        "company": "PT Tangkas Cipta Optimal",
+        "listing_date": "2025-05-16T07:26:56Z"
+    },
+    {
+        "job_id": "84265424",
+        "job_title": "Senior System Analyst",
+        "company": "PT. Indo Trans Teknologi",
+        "listing_date": "2025-05-16T02:39:46Z"
+    },
+    {
+        "job_id": "84192402",
+        "job_title": "Jr Officer ICT Operation",
+        "company": "PPM Manajemen",
+        "listing_date": "2025-05-12T17:00:00Z"
+    },
+    {
+        "job_id": "84192411",
+        "job_title": "Sr Officer I ICT Plan., Gov.&Cyber Sec.",
+        "company": "PPM Manajemen",
+        "listing_date": "2025-05-12T17:00:00Z"
+    },
+    {
+        "job_id": "84280611",
+        "job_title": "ERP Programmer (.NET Technical Consultant/Support)",
+        "company": "PT Inti Data Utama",
+        "listing_date": "2025-05-16T09:42:26Z"
+    },
+    {
+        "job_id": "84175098",
+        "job_title": "Business Analyst",
+        "company": "PT Rapid Teknologi Indonesia",
+        "listing_date": "2025-05-13T03:20:00Z"
+    },
+    {
+        "job_id": "84174398",
+        "job_title": "Senior IT Developer",
+        "company": "Private Advertiser",
+        "listing_date": "2025-05-13T03:01:33Z"
+    },
+    {
+        "job_id": "84255877",
+        "job_title": "Entrepreneurial Software Engineer",
+        "company": "SMEVentures",
+        "listing_date": "2025-05-15T01:46:11Z"
+    },
+    {
+        "job_id": "84283700",
+        "job_title": "Solution Sales Specialist",
+        "company": "PT Inovasi Informatika Indonesia",
+        "listing_date": "2025-05-16T12:30:01Z"
+    },
+    {
+        "job_id": "84180978",
+        "job_title": "Programmers ODOO Developer",
+        "company": "PT DOODEX JAYA MAKMUR",
+        "listing_date": "2025-05-13T05:52:54Z"
+    },
+    {
+        "job_id": "84294024",
+        "job_title": "MES Presales Solutions Consultant (Indonesia)",
+        "company": "Siemens Digital Industries Software",
+        "listing_date": "2025-05-16T11:53:26Z"
+    },
+    {
+        "job_id": "84192867",
+        "job_title": "Jr Officer ICT Business Solution",
+        "company": "PPM Manajemen",
+        "listing_date": "2025-05-12T17:00:00Z"
+    },
+    {
+        "job_id": "84199022",
+        "job_title": "DevOps Engineer",
+        "company": "PT Cerdas Digital Nusantara",
+        "listing_date": "2025-05-13T08:13:31Z"
+    },
+    {
+        "job_id": "84249364",
+        "job_title": "Functional Consultant Analyst",
+        "company": "Mitra Integrasi Informatika",
+        "listing_date": "2025-05-14T12:00:00Z"
+    },
+    {
+        "job_id": "84220253",
+        "job_title": "IT Project Coordinator",
+        "company": "Chaya Hantaran Nusantara, PT",
+        "listing_date": "2025-05-14T10:19:59Z"
+    },
+    {
+        "job_id": "84335067",
+        "job_title": "Staff IT / System Development",
+        "company": "PT EDS Manufacturing Indonesia Wiring Harness",
+        "listing_date": "2025-05-20T01:46:15Z"
+    },
+    {
+        "job_id": "83800326",
+        "job_title": "Infrastructure Officer",
+        "company": "PT Anabatic Technologies",
+        "listing_date": "2025-05-20T06:51:08Z"
+    },
+    {
+        "job_id": "84317293",
+        "job_title": "IT Support",
+        "company": "Permai School - (Group Yayasan Pendidikan Permai)",
+        "listing_date": "2025-05-19T06:52:54Z"
+    },
+    {
+        "job_id": "84335123",
+        "job_title": "IT System Development",
+        "company": "PT Suzuki Indomobil Motor",
+        "listing_date": "2025-05-20T01:46:01Z"
+    },
+    {
+        "job_id": "84342014",
+        "job_title": "IT Supervisor",
+        "company": "Private Advertiser",
+        "listing_date": "2025-05-20T04:43:10Z"
+    },
+    {
+        "job_id": "84216098",
+        "job_title": "IT Support Supervisor - Semarang",
+        "company": "PT Transcosmos Indonesia",
+        "listing_date": "2025-05-14T07:55:40Z"
+    },
+    {
+        "job_id": "84306126",
+        "job_title": "IT Network Development Program - CCNA",
+        "company": "PT Nusantara Compnet Integrator",
+        "listing_date": "2025-05-19T01:48:16Z"
+    },
+    {
+        "job_id": "84236233",
+        "job_title": "IT Support Intern",
+        "company": "PT Panin Dai-ichi Life",
+        "listing_date": "2025-05-15T03:15:42Z"
+    },
+    {
+        "job_id": "84316797",
+        "job_title": "System Operation Officer",
+        "company": "PT. Datascrip",
+        "listing_date": "2025-05-19T06:41:52Z"
+    },
+    {
+        "job_id": "84319734",
+        "job_title": "IT Project Manager",
+        "company": "PT Niagamas Lestari Gemilang (Tools, Machinery and Industrial Equipment)",
+        "listing_date": "2025-05-19T07:59:31Z"
+    },
+    {
+        "job_id": "84207635",
+        "job_title": "IT Project Manager Officer (PMO)",
+        "company": "PT Prawathiya Karsa Pradipta",
+        "listing_date": "2025-05-20T10:16:28Z"
+    },
+    {
+        "job_id": "84340349",
+        "job_title": "System Support Specialist (Odoo ERP)",
+        "company": "PT. PRAKARSA JAYA SENTOSA",
+        "listing_date": "2025-05-20T04:08:52Z"
+    },
+    {
+        "job_id": "84266811",
+        "job_title": "Data Engineer Supervisor",
+        "company": "PT. Cakra Radha Mustika",
+        "listing_date": "2025-05-16T03:12:34Z"
+    },
+    {
+        "job_id": "84231464",
+        "job_title": "HCM Implementation Consultant",
+        "company": "PT Amber Solusi Internasional",
+        "listing_date": "2025-05-15T01:12:35Z"
+    },
+    {
+        "job_id": "84323813",
+        "job_title": "IT Project Manager (Senior Supervisor Level)",
+        "company": "Hanwha Life Insurance Indonesia",
+        "listing_date": "2025-05-19T10:20:52Z"
+    },
+    {
+        "job_id": "84324649",
+        "job_title": "IT Sales",
+        "company": "Panorama JTB Tours Indonesia",
+        "listing_date": "2025-05-19T11:28:45Z"
+    },
+    {
+        "job_id": "84325515",
+        "job_title": "IT AI Roles",
+        "company": "PT Supra Primatama Nusantara(Biznet)",
+        "listing_date": "2025-05-19T12:38:56Z"
+    },
+    {
+        "job_id": "84237417",
+        "job_title": "IT & Data Analytics Assistant Manager",
+        "company": "PT Indoplat Perkasa Purnama",
+        "listing_date": "2025-05-15T03:45:29Z"
+    },
+    {
+        "job_id": "84233596",
+        "job_title": "Cloud Account Manager",
+        "company": "PT. Bisnis Adviz Solusi",
+        "listing_date": "2025-05-15T02:22:56Z"
+    },
+    {
+        "job_id": "84295057",
+        "job_title": "IT Quality Assurance",
+        "company": "PT. LAKES KONSTELASI DATA",
+        "listing_date": "2025-05-17T12:44:31Z"
+    },
+    {
+        "job_id": "84227738",
+        "job_title": "IT Governance, Control, & Assessment",
+        "company": "PT. BFI FINANCE INDONESIA, Tbk",
+        "listing_date": "2025-05-14T09:41:11Z"
+    },
+    {
+        "job_id": "84321917",
+        "job_title": "DEVOPS ENGINEER",
+        "company": "PT Lawencon Internasional",
+        "listing_date": "2025-05-19T09:20:55Z"
+    },
+    {
+        "job_id": "84265275",
+        "job_title": "Officer ICT Business Relationship",
+        "company": "PT Daya5 Rekrutmen",
+        "listing_date": "2025-05-16T02:34:33Z"
+    },
+    {
+        "job_id": "84215743",
+        "job_title": "User Access Management (AS400)",
+        "company": "PT. Metrodata Electronics, Tbk",
+        "listing_date": "2025-05-14T07:43:08Z"
+    },
+    {
+        "job_id": "84314316",
+        "job_title": "Senior ERP Specialist",
+        "company": "Cornerstone Global Partners",
+        "listing_date": "2025-05-19T05:42:18Z"
+    },
+    {
+        "job_id": "84217825",
+        "job_title": "Project Manager & Data Security",
+        "company": "PT CRIF Lembaga Informasi Keuangan",
+        "listing_date": "2025-05-14T09:01:04Z"
+    },
+    {
+        "job_id": "84328110",
+        "job_title": "Implementation Engineer (DevOps)",
+        "company": "PT Trinusa Travelindo",
+        "listing_date": "2025-05-19T08:00:00Z"
+    },
+    {
+        "job_id": "84246145",
+        "job_title": "ERP Presales Consultant",
+        "company": "PT Yonyou Network Indonesia",
+        "listing_date": "2025-05-15T07:29:35Z"
+    },
+    {
+        "job_id": "84216265",
+        "job_title": "Data Engineer (ETL Developer)",
+        "company": "PT Lawencon Internasional",
+        "listing_date": "2025-05-14T08:02:13Z"
+    },
+    {
+        "job_id": "84289791",
+        "job_title": "Region Analytics Associate",
+        "company": "PT Aplikasi Karya Anak Bangsa (GO-JEK Indonesia)",
+        "listing_date": "2025-05-16T19:46:32Z"
+    },
+    {
+        "job_id": "84339175",
+        "job_title": "IT Infrastructure Consultant",
+        "company": "PT ICP Cipta Prima",
+        "listing_date": "2025-05-20T03:32:46Z"
+    },
+    {
+        "job_id": "84287165",
+        "job_title": "IT Support and Infrastructure",
+        "company": "PT Labo Biotech Indonesia",
+        "listing_date": "2025-05-20T01:36:05Z"
+    },
+    {
+        "job_id": "84343734",
+        "job_title": "System Engineer",
+        "company": "PT Infosys Solusi Terpadu",
+        "listing_date": "2025-05-20T05:38:12Z"
+    },
+    {
+        "job_id": "84295041",
+        "job_title": "IT Security (intern)",
+        "company": "Karunia Prima Nastari (KPN CORP.)",
+        "listing_date": "2025-05-17T12:39:26Z"
+    },
+    {
+        "job_id": "84293351",
+        "job_title": "IT STAFF",
+        "company": "PT Hana Master Jaya",
+        "listing_date": "2025-05-17T07:26:46Z"
+    },
+    {
+        "job_id": "84211721",
+        "job_title": "IT Support Staff",
+        "company": "PT Global Jet Cargo (J&T Cargo)",
+        "listing_date": "2025-05-14T06:20:00Z"
+    },
+    {
+        "job_id": "84265667",
+        "job_title": "IT Support (Software Management)",
+        "company": "Asaba Group",
+        "listing_date": "2025-05-16T02:45:48Z"
+    },
+    {
+        "job_id": "84327197",
+        "job_title": "IT Production Support",
+        "company": "VLink Inc",
+        "listing_date": "2025-05-19T06:00:55Z"
+    },
+    {
+        "job_id": "84295076",
+        "job_title": "IT Engineer (Intern)",
+        "company": "Karunia Prima Nastari (KPN CORP.)",
+        "listing_date": "2025-05-17T12:47:32Z"
+    },
+    {
+        "job_id": "84206449",
+        "job_title": "IT Project Manager",
+        "company": "PT Amidis Tirta Mulia",
+        "listing_date": "2025-05-14T04:02:42Z"
+    },
+    {
+        "job_id": "84317701",
+        "job_title": "Data Migration Specialist",
+        "company": "Technosoft Group",
+        "listing_date": "2025-05-19T07:01:39Z"
+    },
+    {
+        "job_id": "84202654",
+        "job_title": "IT Programmer",
+        "company": "PT. Elabram Systems",
+        "listing_date": "2025-05-14T02:10:29Z"
+    },
+    {
+        "job_id": "84322116",
+        "job_title": "Database Engineer",
+        "company": "TIXid",
+        "listing_date": "2025-05-19T06:26:44Z"
+    },
+    {
+        "job_id": "84320423",
+        "job_title": "Assistant Manager Business Support",
+        "company": "PT Lotte Shopping Indonesia",
+        "listing_date": "2025-05-19T08:26:54Z"
+    },
+    {
+        "job_id": "84341615",
+        "job_title": "Project Manager (English Speaker)",
+        "company": "PT. Tri Jejaring Indonesia (B3Networks)",
+        "listing_date": "2025-05-20T04:30:50Z"
+    },
+    {
+        "job_id": "84328132",
+        "job_title": "AI & Data Management Consultant",
+        "company": "PT NTT Indonesia",
+        "listing_date": "2025-05-19T07:30:00Z"
+    },
+    {
+        "job_id": "84325631",
+        "job_title": "Industry 4.0 Engineering / Data analytics Engineering internship",
+        "company": "PT Philips Indonesia",
+        "listing_date": "2025-05-19T05:00:00Z"
+    },
+    {
+        "job_id": "84319612",
+        "job_title": "Infrastructure Development Manager",
+        "company": "KLINIK FERTILITAS BOCAH INDONESIA",
+        "listing_date": "2025-05-19T07:54:52Z"
+    },
+    {
+        "job_id": "84287213",
+        "job_title": "Microsoft 365 Specialist",
+        "company": "PT Nomura Research Institute Indonesia",
+        "listing_date": "2025-05-16T06:39:29Z"
+    },
+    {
+        "job_id": "84290298",
+        "job_title": "Global Business Solutions Project Manager, Indonesia",
+        "company": "TIKTOK PTE LTD (TIKTOK)",
+        "listing_date": "2025-05-16T22:48:49Z"
+    },
+    {
+        "job_id": "84287512",
+        "job_title": "Database Administrator (DBA) Oracle",
+        "company": "PT Akhdani Reka Solusi",
+        "listing_date": "2025-05-16T07:13:28Z"
+    },
+    {
+        "job_id": "84274972",
+        "job_title": "Chemicals Management Database - Quality Department",
+        "company": "PT GFT Indonesia Investment",
+        "listing_date": "2025-05-16T06:42:26Z"
+    },
+    {
+        "job_id": "84258397",
+        "job_title": "Senior Solution Specialist (Kyriba), Finance Systems",
+        "company": "Finance",
+        "listing_date": "2025-05-15T17:34:29Z"
+    },
+    {
+        "job_id": "84217709",
+        "job_title": "Data & Analytics Lead",
+        "company": "Proxima Consulting Indonesia",
+        "listing_date": "2025-05-14T08:58:44Z"
+    },
+    {
+        "job_id": "84290291",
+        "job_title": "AI & Data Management Consultant",
+        "company": "PT NTT Data Indonesia",
+        "listing_date": "2025-05-16T08:21:30Z"
+    },
+    {
+        "job_id": "84202694",
+        "job_title": "IT Developer",
+        "company": "PT Human Protalent Indonesia",
+        "listing_date": "2025-05-15T01:35:50Z"
+    },
+    {
+        "job_id": "84221239",
+        "job_title": "Pricing and Data Analyst Staff",
+        "company": "Chaya Hantaran Nusantara, PT",
+        "listing_date": "2025-05-14T11:00:27Z"
+    },
+    {
+        "job_id": "84326226",
+        "job_title": "Software Project Manager (Indonesia)",
+        "company": "Juris Technologies Sdn Bhd",
+        "listing_date": "2025-05-19T13:17:57Z"
+    },
+    {
+        "job_id": "84323406",
+        "job_title": "IT Business Analyst (Life Insurance)",
+        "company": "PT Indocyber Global Teknologi",
+        "listing_date": "2025-05-19T10:02:29Z"
+    },
+    {
+        "job_id": "84273808",
+        "job_title": "Business Analyst",
+        "company": "PT Jobstreet Indonesia",
+        "listing_date": "2025-05-16T06:17:02Z"
+    },
+    {
+        "job_id": "84184129",
+        "job_title": "SAP B1 Technical",
+        "company": "PT Alvindo Catur Sentosa",
+        "listing_date": "2025-05-13T07:10:11Z"
+    },
+    {
+        "job_id": "84179036",
+        "job_title": "IT SUPPORT (PROGRAMER, CCTV, NETWORK, HARDWARE, SOFTWARE)",
+        "company": "PT Golden Flexible Packaging",
+        "listing_date": "2025-05-13T04:46:15Z"
+    },
+    {
+        "job_id": "84216604",
+        "job_title": "IT Auditor",
+        "company": "Indofood Group",
+        "listing_date": "2025-05-14T08:15:16Z"
+    },
+    {
+        "job_id": "84341071",
+        "job_title": "Sales Officer - IT Products & Services",
+        "company": "Yayasan Bina Nusantara",
+        "listing_date": "2025-05-20T04:16:16Z"
+    },
+    {
+        "job_id": "84338366",
+        "job_title": "Programmer",
+        "company": "Highpoint Group",
+        "listing_date": "2025-05-20T03:13:39Z"
+    },
+    {
+        "job_id": "84275593",
+        "job_title": "Software Engineer (ERP)",
+        "company": "PT Formulatrix Indonesia",
+        "listing_date": "2025-05-16T06:58:31Z"
+    },
+    {
+        "job_id": "84206387",
+        "job_title": "IT Business Analyst",
+        "company": "PT ASURANSI SIMAS JIWA",
+        "listing_date": "2025-05-14T03:46:07Z"
+    },
+    {
+        "job_id": "84177177",
+        "job_title": "IT Business Analyst",
+        "company": "PT Amerta Indah Otsuka",
+        "listing_date": "2025-05-13T03:58:39Z"
+    },
+    {
+        "job_id": "84239887",
+        "job_title": "ERP Staff",
+        "company": "PT Allure Alluminio",
+        "listing_date": "2025-05-15T04:47:21Z"
+    },
+    {
+        "job_id": "84317806",
+        "job_title": "Supervisor Application Developer",
+        "company": "ASIA PULP AND PAPER",
+        "listing_date": "2025-05-19T07:03:51Z"
+    },
+    {
+        "job_id": "84301114",
+        "job_title": "Consulting - SAP Consultant",
+        "company": "PwC Indonesia",
+        "listing_date": "2025-05-18T16:30:26Z"
+    },
+    {
+        "job_id": "84237680",
+        "job_title": "IT Developer",
+        "company": "PT Minova Infotech Solutions",
+        "listing_date": "2025-05-15T04:10:50Z"
+    },
+    {
+        "job_id": "84341594",
+        "job_title": "IT Developer (ASP.NET)",
+        "company": "PT Karisma Zona Kreatifku",
+        "listing_date": "2025-05-20T04:30:10Z"
+    },
+    {
+        "job_id": "84312660",
+        "job_title": "IT Java Developer",
+        "company": "PT Bank IBK Indonesia, Tbk",
+        "listing_date": "2025-05-19T04:45:21Z"
+    },
+    {
+        "job_id": "84307337",
+        "job_title": "ERP Specialist (SAP B1)",
+        "company": "PT. TIGADAUN KAPUAS",
+        "listing_date": "2025-05-19T02:23:45Z"
+    },
+    {
+        "job_id": "84328137",
+        "job_title": "IT Audit Senior Analyst",
+        "company": "PT Amartha Mikro Fintek (Jakarta)",
+        "listing_date": "2025-05-19T06:38:13Z"
+    },
+    {
+        "job_id": "84244091",
+        "job_title": "SAP Bootcamp",
+        "company": "PT Achiera Global Utama",
+        "listing_date": "2025-05-15T06:41:23Z"
+    },
+    {
+        "job_id": "84307407",
+        "job_title": "SAP FI/CO Internal Consultant",
+        "company": "ASIA PULP AND PAPER",
+        "listing_date": "2025-05-19T02:25:28Z"
+    },
+    {
+        "job_id": "84264807",
+        "job_title": "Presales",
+        "company": "Asaba Group",
+        "listing_date": "2025-05-16T02:22:38Z"
+    },
+    {
+        "job_id": "84324521",
+        "job_title": "Odoo Developer",
+        "company": "PT Salva Teknologi Digital",
+        "listing_date": "2025-05-19T11:09:34Z"
+    },
+    {
+        "job_id": "84334223",
+        "job_title": "SAP ABAP Sr Analyst",
+        "company": "PT Accenture",
+        "listing_date": "2025-05-19T10:00:00Z"
+    },
+    {
+        "job_id": "84243340",
+        "job_title": "SAP Trainer",
+        "company": "PT Adecco Personnel Indonesia",
+        "listing_date": "2025-05-15T06:29:31Z"
+    },
+    {
+        "job_id": "84256756",
+        "job_title": "Functional Consultant Analyst",
+        "company": "PT. Metrodata Electronics, Tbk",
+        "listing_date": "2025-05-14T12:00:00Z"
+    },
+    {
+        "job_id": "84260967",
+        "job_title": "Senior Business Development (Cloud)",
+        "company": "PT Talenta Eksekutif Asia (Matcha Talent)",
+        "listing_date": "2025-05-16T00:15:37Z"
+    },
+    {
+        "job_id": "84289777",
+        "job_title": "Principal Software Engineer, Fulfilment",
+        "company": "PT Solusi Transportasi Indonesia",
+        "listing_date": "2025-05-16T19:38:49Z"
+    },
+    {
+        "job_id": "84278874",
+        "job_title": "IT Operation Mandarin Speaker",
+        "company": "PT. Finansia Aira Teknologi",
+        "listing_date": "2025-05-16T08:32:56Z"
+    },
+    {
+        "job_id": "84321907",
+        "job_title": "IT Business Analyst (for Banking Industry / FinTech Industry)",
+        "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+        "listing_date": "2025-05-19T04:51:57Z"
+    },
+    {
+        "job_id": "84245851",
+        "job_title": "Business Process Analyst",
+        "company": "PT Primecare Hospital Group",
+        "listing_date": "2025-05-15T07:20:14Z"
+    },
+    {
+        "job_id": "84334093",
+        "job_title": "Business Analyst - Banking Industry",
+        "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+        "listing_date": "2025-05-19T11:12:32Z"
+    },
+    {
+        "job_id": "84258518",
+        "job_title": "Business Analyst",
+        "company": "PT Inmotion Inovasi Teknologi",
+        "listing_date": "2025-05-15T08:21:14Z"
+    },
+    {
+        "job_id": "84184971",
+        "job_title": "Project Manager",
+        "company": "PT Platinumetrix Global Inovasi",
+        "listing_date": "2025-05-13T07:32:01Z"
+    },
+    {
+        "job_id": "84227766",
+        "job_title": "Software Engineer - Backend (Financial Services)",
+        "company": "PT Fliptech Lentera Inspirasi Pertiwi",
+        "listing_date": "2025-05-14T19:07:16Z"
+    },
+    {
+        "job_id": "84248172",
+        "job_title": "SAP Fund Management Consultant",
+        "company": "PT Steel Pipe Industry of Indonesia Tbk",
+        "listing_date": "2025-05-15T08:49:30Z"
+    },
+    {
+        "job_id": "84227431",
+        "job_title": "RPA Developer 6 Month's Contract",
+        "company": "PT Bumi Amartha Teknologi Mandiri",
+        "listing_date": "2025-05-14T09:52:01Z"
+    },
+    {
+        "job_id": "84227554",
+        "job_title": "Test Engineer (Financial Services)",
+        "company": "PT Fliptech Lentera Inspirasi Pertiwi",
+        "listing_date": "2025-05-14T19:07:18Z"
+    },
+    {
+        "job_id": "84258363",
+        "job_title": "Presales Consultant",
+        "company": "PT Inmotion Inovasi Teknologi",
+        "listing_date": "2025-05-15T10:09:47Z"
+    },
+    {
+        "job_id": "84227647",
+        "job_title": "Software Engineer - Mobile (Financial Services)",
+        "company": "PT Fliptech Lentera Inspirasi Pertiwi",
+        "listing_date": "2025-05-14T19:07:17Z"
+    },
+    {
+        "job_id": "84249177",
+        "job_title": "Senior Engagement Manager, ASEAN Professional Services",
+        "company": "Enak Amazon makanan",
+        "listing_date": "2025-05-15T05:39:40Z"
+    },
+    {
+        "job_id": "84402489",
+        "job_title": "Head of IT (EDP)",
+        "company": "PT Solo Murni",
+        "listing_date": "2025-05-22T05:44:02Z"
+    },
+    {
+        "job_id": "84436098",
+        "job_title": "IT Manager",
+        "company": "PT Wedison Green Energy Group",
+        "listing_date": "2025-05-23T07:08:07Z"
+    },
+    {
+        "job_id": "84442480",
+        "job_title": "QNB Indonesia Aspire Internship Program (IT Internship)",
+        "company": "PT Bank QNB Indonesia Tbk",
+        "listing_date": "2025-05-23T10:32:40Z"
+    },
+    {
+        "job_id": "84477577",
+        "job_title": "IT Infrastructure Specialist REDHAT JUNIPER",
+        "company": "PT Palung Data Sistem",
+        "listing_date": "2025-05-26T07:51:40Z"
+    },
+    {
+        "job_id": "84337094",
+        "job_title": "ICT supervisor",
+        "company": "PT. Selaras Citra Nusantara Perkasa Tbk.",
+        "listing_date": "2025-05-20T02:44:57Z"
+    },
+    {
+        "job_id": "84407391",
+        "job_title": "IT Infrastructure",
+        "company": "PT CERESTAR INDONESIA TBK",
+        "listing_date": "2025-05-22T08:20:46Z"
+    },
+    {
+        "job_id": "84350265",
+        "job_title": "Senior Manufacturing Systems Developer (OTG)",
+        "company": "PT Excelitas Technologies Batam",
+        "listing_date": "2025-05-20T08:39:28Z"
+    },
+    {
+        "job_id": "84347605",
+        "job_title": "IT Infrastructure & Network Staff (Factory)",
+        "company": "PT ABC KOGEN DAIRY",
+        "listing_date": "2025-05-20T07:18:38Z"
+    },
+    {
+        "job_id": "84336084",
+        "job_title": "IT Security Officer",
+        "company": "Agung Sedayu Group",
+        "listing_date": "2025-05-20T02:16:28Z"
+    },
+    {
+        "job_id": "84458848",
+        "job_title": "Senior Network Engineer",
+        "company": "Private Advertiser",
+        "listing_date": "2025-05-25T15:26:12Z"
+    },
+    {
+        "job_id": "84441769",
+        "job_title": "Cybersecurity & Digital Forensic Analyst",
+        "company": "Cyber Xpert Nusantara",
+        "listing_date": "2025-05-23T10:07:32Z"
+    },
+    {
+        "job_id": "84481683",
+        "job_title": "System Analyst",
+        "company": "PT Nusantara Compnet Integrator",
+        "listing_date": "2025-05-26T09:49:40Z"
+    },
+    {
+        "job_id": "84467223",
+        "job_title": "Customer Engineer (Based on Project)",
+        "company": "PT Nusantara Compnet Integrator",
+        "listing_date": "2025-05-26T03:01:01Z"
+    },
+    {
+        "job_id": "84458618",
+        "job_title": "IT Manager",
+        "company": "Indonesia Equipment Centre",
+        "listing_date": "2025-05-25T13:36:55Z"
+    },
+    {
+        "job_id": "84428314",
+        "job_title": "IT System Analyst",
+        "company": "Private Advertiser",
+        "listing_date": "2025-05-23T03:46:35Z"
+    },
+    {
+        "job_id": "84370092",
+        "job_title": "IT Governance, Procedure & Reporting Department Head",
+        "company": "PT Bank JTrust Indonesia, Tbk",
+        "listing_date": "2025-05-21T04:00:09Z"
+    },
+    {
+        "job_id": "84445926",
+        "job_title": "IT Auditor",
+        "company": "PT United Tractors Tbk",
+        "listing_date": "2025-05-23T15:22:21Z"
+    },
+    {
+        "job_id": "84367935",
+        "job_title": "IT PMO T24",
+        "company": "PT Bumi Amartha Teknologi Mandiri",
+        "listing_date": "2025-05-21T03:00:28Z"
+    },
+    {
+        "job_id": "84377294",
+        "job_title": "IT Quality Assurance (Tester)",
+        "company": "PT Abhimata Persada",
+        "listing_date": "2025-05-21T07:23:21Z"
+    },
+    {
+        "job_id": "84405575",
+        "job_title": "Senior System Engineer",
+        "company": "PT Indo Online Mitra Usaha (Vox Asia / BraveHub)",
+        "listing_date": "2025-05-22T07:13:13Z"
+    },
+    {
+        "job_id": "84374120",
+        "job_title": "DB Security L2 Engineer",
+        "company": "PT Metrocom Global Solusi",
+        "listing_date": "2025-05-21T06:08:26Z"
+    },
+    {
+        "job_id": "84436814",
+        "job_title": "IT Officer",
+        "company": "PT Invesnow Principal Optima",
+        "listing_date": "2025-05-23T07:31:09Z"
+    },
+    {
+        "job_id": "84442816",
+        "job_title": "IT Infrastructure & Security Senior Supervisor​",
+        "company": "PT Etana Biotechnologies Indonesia",
+        "listing_date": "2025-05-23T11:01:43Z"
+    },
+    {
+        "job_id": "84446471",
+        "job_title": "IT Infrastructure",
+        "company": "PT United Tractors Tbk",
+        "listing_date": "2025-05-23T15:22:24Z"
+    },
+    {
+        "job_id": "84399208",
+        "job_title": "IT Manager",
+        "company": "Passion Jewelry",
+        "listing_date": "2025-05-22T03:53:05Z"
+    },
+    {
+        "job_id": "84352964",
+        "job_title": "Group Cybersecurity Coordinator",
+        "company": "PT Acclime Consulting Indonesia",
+        "listing_date": "2025-05-20T10:13:48Z"
+    },
+    {
+        "job_id": "84479152",
+        "job_title": "SAP Application Head",
+        "company": "PT Tata Consultancy Services Indonesia",
+        "listing_date": "2025-05-26T08:51:38Z"
+    },
+    {
+        "job_id": "84481845",
+        "job_title": "Intern, IT SAP",
+        "company": "ASIA PULP AND PAPER",
+        "listing_date": "2025-05-26T09:55:18Z"
+    },
+    {
+        "job_id": "84371707",
+        "job_title": "EDR L2 Engineer",
+        "company": "PT Metrocom Global Solusi",
+        "listing_date": "2025-05-21T04:54:58Z"
+    },
+    {
+        "job_id": "84354740",
+        "job_title": "Business Analyst",
+        "company": "PT Ordivo Teknologi Indonesia",
+        "listing_date": "2025-05-20T12:50:41Z"
+    },
+    {
+        "job_id": "84431034",
+        "job_title": "IT Service Desk Engineer - IT Consulting - Jakarta (B-119547)",
+        "company": "RGF HR Agent Indonesia",
+        "listing_date": "2025-05-23T04:52:51Z"
+    },
+    {
+        "job_id": "84439985",
+        "job_title": "IT Manager",
+        "company": "PT. Selera Prima Food",
+        "listing_date": "2025-05-23T09:23:25Z"
+    },
+    {
+        "job_id": "84349929",
+        "job_title": "Frontend Developer",
+        "company": "PT Inovasi Terdepan Nusantara",
+        "listing_date": "2025-05-20T08:26:41Z"
+    },
+    {
+        "job_id": "84406584",
+        "job_title": "ICT Manager",
+        "company": "PT Binabusana Internusa",
+        "listing_date": "2025-05-22T07:47:48Z"
+    },
+    {
+        "job_id": "84351787",
+        "job_title": "IT Superintendent",
+        "company": "PT Alfa Valves Indonesia",
+        "listing_date": "2025-05-20T09:31:09Z"
+    },
+    {
+        "job_id": "84430824",
+        "job_title": "System Engineer - IT Consulting - Jakarta (B-119543)",
+        "company": "RGF HR Agent Indonesia",
+        "listing_date": "2025-05-23T04:45:50Z"
+    },
+    {
+        "job_id": "84435435",
+        "job_title": "Unix System Administrator",
+        "company": "PT Graha Karya Informasi",
+        "listing_date": "2025-05-23T07:19:25Z"
+    },
+    {
+        "job_id": "84399776",
+        "job_title": "Server and Storage Engineer",
+        "company": "PT Ivatama Teknologi",
+        "listing_date": "2025-05-22T04:07:33Z"
+    },
+    {
+        "job_id": "84346763",
+        "job_title": "Product Owner",
+        "company": "Steradian Data Optima",
+        "listing_date": "2025-05-20T06:56:34Z"
+    },
+    {
+        "job_id": "84374919",
+        "job_title": "Junior Server Engineer",
+        "company": "PT. Berca Hardayaperkasa",
+        "listing_date": "2025-05-21T06:27:38Z"
+    },
+    {
+        "job_id": "84371629",
+        "job_title": "XDR L2 Engineer",
+        "company": "PT Metrocom Global Solusi",
+        "listing_date": "2025-05-21T04:51:49Z"
+    },
+    {
+        "job_id": "84400607",
+        "job_title": "IT GRC Consultant",
+        "company": "PT Perisai Digital Indonesia",
+        "listing_date": "2025-05-22T04:33:00Z"
+    },
+    {
+        "job_id": "84382912",
+        "job_title": "Data Engineer",
+        "company": "PT IDStar Cipta Teknologi",
+        "listing_date": "2025-05-21T11:02:11Z"
+    },
+    {
+        "job_id": "84368644",
+        "job_title": "IT SAP (BASIS)",
+        "company": "PT Graha Bumi Hijau",
+        "listing_date": "2025-05-21T03:23:00Z"
+    },
+    {
+        "job_id": "84371660",
+        "job_title": "TIP L2 Engineer",
+        "company": "PT Metrocom Global Solusi",
+        "listing_date": "2025-05-21T04:53:23Z"
+    },
+    {
+        "job_id": "84448803",
+        "job_title": "Business Analyst",
+        "company": "PT Trinusa Travelindo",
+        "listing_date": "2025-05-23T10:00:00Z"
+    },
+    {
+        "job_id": "84355664",
+        "job_title": "Associate / Senior Associate - Advisory Deals - Corporate Finance",
+        "company": "PwC Indonesia",
+        "listing_date": "2025-05-20T11:44:59Z"
+    },
+    {
+        "job_id": "84377685",
+        "job_title": "IT Software Development Department Head",
+        "company": "Soedarpo Informatika",
+        "listing_date": "2025-05-21T07:35:31Z"
+    },
+    {
+        "job_id": "84398208",
+        "job_title": "IT Senior System Analyst",
+        "company": "PT Home Credit Indonesia",
+        "listing_date": "2025-05-22T03:26:04Z"
+    },
+    {
+        "job_id": "84408148",
+        "job_title": "Application Engineering & Tech Div. Head",
+        "company": "Soedarpo Informatika",
+        "listing_date": "2025-05-22T08:51:58Z"
+    },
+    {
+        "job_id": "84376338",
+        "job_title": "Business System Architech",
+        "company": "PT Repex Wahana",
+        "listing_date": "2025-05-21T06:58:30Z"
+    },
+    {
+        "job_id": "84382503",
+        "job_title": "Senior SAP Technical (ABAP) Specialist",
+        "company": "PT Mitra Adiperkasa Tbk",
+        "listing_date": "2025-05-21T10:31:38Z"
+    },
+    {
+        "job_id": "84395051",
+        "job_title": "SRM System Operation Consultant",
+        "company": "PT. HAND Solutions Indonesia",
+        "listing_date": "2025-05-22T01:57:25Z"
+    },
+    {
+        "job_id": "84353395",
+        "job_title": "Enterprise Systems Functional Officer",
+        "company": "PT Panca Amara Utama",
+        "listing_date": "2025-05-20T10:38:22Z"
+    },
+    {
+        "job_id": "84395205",
+        "job_title": "IT SUPPORT",
+        "company": "Yayasan Pendidikan Harapan Bangsa Indonesia",
+        "listing_date": "2025-05-22T02:01:53Z"
+    },
+    {
+        "job_id": "84351533",
+        "job_title": "IT Security Engineer",
+        "company": "PT Esco Bintan Indonesia",
+        "listing_date": "2025-05-20T09:21:05Z"
+    },
+    {
+        "job_id": "84394820",
+        "job_title": "IT Monitoring & Access Helpdesk",
+        "company": "PT Varnion Technology Semesta",
+        "listing_date": "2025-05-22T01:51:07Z"
+    },
+    {
+        "job_id": "84455579",
+        "job_title": "Engineer OnSite-Bali",
+        "company": "DutaGM",
+        "listing_date": "2025-05-23T12:19:06Z"
+    },
+    {
+        "job_id": "84398063",
+        "job_title": "IT Internship",
+        "company": "PHINTRACO GROUP",
+        "listing_date": "2025-05-22T03:25:24Z"
+    },
+    {
+        "job_id": "84380584",
+        "job_title": "Assistant IT Manager - Fairfield by Marriott Bali Legian25083786",
+        "company": "Fairfield by Marriott Bali Legian",
+        "listing_date": "2025-05-21T07:40:15Z"
+    },
+    {
+        "job_id": "84441665",
+        "job_title": "IT Infrastructure Asst. Manager",
+        "company": "PT MNC Guna Usaha Indonesia (Jakarta)",
+        "listing_date": "2025-05-23T10:04:21Z"
+    },
+    {
+        "job_id": "84472746",
+        "job_title": "Product Specialist",
+        "company": "PT Sarana Pactindo",
+        "listing_date": "2025-05-26T05:40:43Z"
+    },
+    {
+        "job_id": "84403691",
+        "job_title": "TAC System Specialist",
+        "company": "PT Eka Mas Republik",
+        "listing_date": "2025-05-22T06:15:38Z"
+    },
+    {
+        "job_id": "84443911",
+        "job_title": "IT Risk & Compliance (SOX) Lead",
+        "company": "Coca-Cola Europacific Partners Indonesia",
+        "listing_date": "2025-05-23T08:59:15Z"
+    },
+    {
+        "job_id": "84455848",
+        "job_title": "Information Technology System Engineer",
+        "company": "LG Sinar Mas",
+        "listing_date": "2025-05-23T06:39:46Z"
+    },
+    {
+        "job_id": "84386832",
+        "job_title": "IT Business Analyst",
+        "company": "PT Tiga Daya Digital Indonesia (Eksad Technology)",
+        "listing_date": "2025-05-21T04:52:29Z"
+    },
+    {
+        "job_id": "84375787",
+        "job_title": "IT Senior Staff",
+        "company": "PT Kokai Indo Abadi",
+        "listing_date": "2025-05-21T06:46:41Z"
+    },
+    {
+        "job_id": "84354283",
+        "job_title": "IT Business Analyst",
+        "company": "PT Tiga Daya Digital Indonesia",
+        "listing_date": "2025-05-20T03:04:14Z"
+    },
+    {
+        "job_id": "84477749",
+        "job_title": "Technical Account Manager",
+        "company": "PT. Elabram Systems",
+        "listing_date": "2025-05-26T07:57:49Z"
+    },
+    {
+        "job_id": "84452892",
+        "job_title": "IT Specialist",
+        "company": "PT RAJA SUKSES PROPERTINDO",
+        "listing_date": "2025-05-24T09:02:38Z"
+    },
+    {
+        "job_id": "84446145",
+        "job_title": "Data Analyst Staff - Jakarta",
+        "company": "PT Medquest Jaya Global",
+        "listing_date": "2025-05-20T17:00:00Z"
+    },
+    {
+        "job_id": "84370079",
+        "job_title": "DATA ANALYST/ BI ENGINEER",
+        "company": "MINERGO SYSTEMS",
+        "listing_date": "2025-05-21T03:59:45Z"
+    },
+    {
+        "job_id": "84385677",
+        "job_title": "QA Manual Freelancer",
+        "company": "Vascomm",
+        "listing_date": "2025-05-21T11:09:42Z"
+    },
+    {
+        "job_id": "84398628",
+        "job_title": "System Administrator",
+        "company": "PT LINKIT",
+        "listing_date": "2025-05-22T03:38:20Z"
+    },
+    {
+        "job_id": "84407753",
+        "job_title": "IT Develop",
+        "company": "PT Brinks Solutions Indonesia",
+        "listing_date": "2025-05-22T08:36:01Z"
+    },
+    {
+        "job_id": "84324364",
+        "job_title": "Junior Software Developer",
+        "company": "Savant Degrees Pte Ltd",
+        "listing_date": "2025-05-19T10:53:20Z"
+    },
+    {
+        "job_id": "84468934",
+        "job_title": "CX System & Analytics Manager",
+        "company": "PT Eka Mas Republik",
+        "listing_date": "2025-05-26T03:39:34Z"
+    },
+    {
+        "job_id": "84337915",
+        "job_title": "Solution Engineer",
+        "company": "PT Informasi Digital Mandiri",
+        "listing_date": "2025-05-20T03:02:39Z"
+    },
+    {
+        "job_id": "84347317",
+        "job_title": "Delivery Business Systems Analyst",
+        "company": "PT Flextronics Technology Indonesia",
+        "listing_date": "2025-05-20T01:00:00Z"
+    },
+    {
+        "job_id": "84440167",
+        "job_title": "DevOps Engineer",
+        "company": "Code.id",
+        "listing_date": "2025-05-23T04:04:35Z"
+    },
+    {
+        "job_id": "84354658",
+        "job_title": "Cloud Engineer",
+        "company": "CTI Group",
+        "listing_date": "2025-05-20T08:05:10Z"
+    },
+    {
+        "job_id": "84339193",
+        "job_title": "IT Automation Intern – Supply Chain",
+        "company": "PT Philips Indonesia",
+        "listing_date": "2025-05-19T11:30:00Z"
+    },
+    {
+        "job_id": "84402366",
+        "job_title": "System Analyst",
+        "company": "PT. Prima Vista Solusi",
+        "listing_date": "2025-05-22T05:36:49Z"
+    },
+    {
+        "job_id": "84464183",
+        "job_title": "Network Engineer",
+        "company": "PT. Aviro Global Teknologi",
+        "listing_date": "2025-05-26T01:39:10Z"
+    },
+    {
+        "job_id": "84379200",
+        "job_title": "IT Business Analyst",
+        "company": "PT Sinergi Daya Mitra",
+        "listing_date": "2025-05-21T08:39:04Z"
+    },
+    {
+        "job_id": "84452552",
+        "job_title": "IT Support",
+        "company": "PT. Inovasi Teknologi Generasi Cemerlang",
+        "listing_date": "2025-05-24T07:33:00Z"
+    },
+    {
+        "job_id": "84482799",
+        "job_title": "Project Manager (Software)",
+        "company": "PT Datacaraka Solusindo",
+        "listing_date": "2025-05-26T10:43:15Z"
+    },
+    {
+        "job_id": "84380074",
+        "job_title": "Technical Support (Application Support Engineer)",
+        "company": "Geniebook Pte. Ltd.",
+        "listing_date": "2025-05-21T09:16:40Z"
+    },
+    {
+        "job_id": "84404077",
+        "job_title": "IT MANAGER (Based in Batam)",
+        "company": "PT Batam Opus Bay (Tuan Sing Holdings Limited)",
+        "listing_date": "2025-05-22T06:32:25Z"
+    },
+    {
+        "job_id": "84466916",
+        "job_title": "Unit Head IT Development",
+        "company": "PT Asuransi Jiwa BCA",
+        "listing_date": "2025-05-26T02:54:16Z"
+    },
+    {
+        "job_id": "84351957",
+        "job_title": "Application Support Specialist",
+        "company": "PT OBS SOLUSI TEKNOLOGI INDONESIA",
+        "listing_date": "2025-05-20T09:37:29Z"
+    },
+    {
+        "job_id": "84352292",
+        "job_title": "IT/OT engineer (Karawang)",
+        "company": "PT Karya Solusi Prima Sejahtera",
+        "listing_date": "2025-05-20T09:49:22Z"
+    },
+    {
+        "job_id": "84368641",
+        "job_title": "IT Governance Project Staff",
+        "company": "PT Tekno Gemilang Indonesia",
+        "listing_date": "2025-05-21T03:53:24Z"
+    },
+    {
+        "job_id": "84454399",
+        "job_title": "IT Project Manager",
+        "company": "Rajah & Tann Singapore LLP",
+        "listing_date": "2025-05-24T15:30:51Z"
+    },
+    {
+        "job_id": "84353250",
+        "job_title": "IT Governance",
+        "company": "PT CIMB Niaga Auto Finance",
+        "listing_date": "2025-05-20T10:27:48Z"
+    },
+    {
+        "job_id": "84347157",
+        "job_title": "IT Account Manager Enterprise",
+        "company": "PT Griya Mitra Persada",
+        "listing_date": "2025-05-20T07:07:30Z"
+    },
+    {
+        "job_id": "84371226",
+        "job_title": "Technology Specialists Modern Work",
+        "company": "Microsoft",
+        "listing_date": "2025-05-21T04:36:47Z"
+    },
+    {
+        "job_id": "84400539",
+        "job_title": "TECHNICAL PROJECT MANAGER",
+        "company": "PT Lawencon Internasional",
+        "listing_date": "2025-05-22T04:30:14Z"
+    },
+    {
+        "job_id": "84402734",
+        "job_title": "Sales Executive (IT Solutions)",
+        "company": "PT Net One Asia",
+        "listing_date": "2025-05-22T05:50:38Z"
+    },
+    {
+        "job_id": "84335822",
+        "job_title": "Integration Engineer",
+        "company": "PT Esensi Solusi Buana",
+        "listing_date": "2025-05-20T06:18:07Z"
+    },
+    {
+        "job_id": "84380919",
+        "job_title": "Data management and operation",
+        "company": "PT ELUCKYGAME TECHNOLOGY ASIA COMPANY",
+        "listing_date": "2025-05-21T09:36:30Z"
+    },
+    {
+        "job_id": "84437025",
+        "job_title": "Project ERP Data Migration (D365FO)",
+        "company": "Siloam Hospitals Group (Tbk)",
+        "listing_date": "2025-05-23T07:36:38Z"
+    },
+    {
+        "job_id": "84378029",
+        "job_title": "APPLICATION SPECIALIST",
+        "company": "PT Ambrosius Utama Indonesia",
+        "listing_date": "2025-05-21T07:49:05Z"
+    },
+    {
+        "job_id": "84445822",
+        "job_title": "INDO_Supply Chain Digitalization_Intern",
+        "company": "PT Schneider Electric",
+        "listing_date": "2025-05-23T12:00:00Z"
+    },
+    {
+        "job_id": "84349989",
+        "job_title": "ERP Consulting",
+        "company": "PT Karisma Zona Kreatifku",
+        "listing_date": "2025-05-20T08:28:47Z"
+    },
+    {
+        "job_id": "84314316",
+        "job_title": "Solutions Architect ( ERP / C# )",
+        "company": "Cornerstone Global Partners",
+        "listing_date": "2025-05-19T05:42:18Z"
+    },
+    {
+        "job_id": "84364240",
+        "job_title": "Technical Consultant (Oracle)",
+        "company": "PT. Metrodata Electronics, Tbk",
+        "listing_date": "2025-05-21T01:20:27Z"
+    },
+    {
+        "job_id": "84368367",
+        "job_title": "Business Analyst",
+        "company": "education ONE",
+        "listing_date": "2025-05-21T03:13:02Z"
+    },
+    {
+        "job_id": "84383659",
+        "job_title": "M - Consulting - Oracle",
+        "company": "PwC Indonesia",
+        "listing_date": "2025-05-21T09:01:41Z"
+    },
+    {
+        "job_id": "84463894",
+        "job_title": "IT SUPERVISOR",
+        "company": "Private Advertiser",
+        "listing_date": "2025-05-26T01:30:49Z"
+    },
+    {
+        "job_id": "84399499",
+        "job_title": "IT Desktop Support",
+        "company": "PT Kamoro Maxima Integra",
+        "listing_date": "2025-05-22T04:14:18Z"
+    },
+    {
+        "job_id": "84356436",
+        "job_title": "IT Officer",
+        "company": "PT Mutualplus Global Resources",
+        "listing_date": "2025-05-19T10:17:01Z"
+    },
+    {
+        "job_id": "84438805",
+        "job_title": "IT Application Support Coordinator",
+        "company": "PT Avows Technologies",
+        "listing_date": "2025-05-23T08:41:56Z"
+    },
+    {
+        "job_id": "84481610",
+        "job_title": "QA IT Perusahaan Telekomunikasi - Jakarta",
+        "company": "Infomedia",
+        "listing_date": "2025-05-26T03:50:35Z"
+    },
+    {
+        "job_id": "84464283",
+        "job_title": "Implementation Consultant",
+        "company": "PT Indodev Niaga Internet",
+        "listing_date": "2025-05-26T01:41:49Z"
+    },
+    {
+        "job_id": "84458695",
+        "job_title": "Technical Consultant",
+        "company": "PT. IDX CONSULTING",
+        "listing_date": "2025-05-25T14:12:17Z"
+    },
+    {
+        "job_id": "84417404",
+        "job_title": "Data Engineer & Optimization",
+        "company": "PCS Group",
+        "listing_date": "2025-05-22T07:24:07Z"
+    },
+    {
+        "job_id": "84410393",
+        "job_title": "SQL Server Query Tuning Specialist",
+        "company": "PT Sisindokom Lintasbuana",
+        "listing_date": "2025-05-22T10:08:30Z"
+    },
+    {
+        "job_id": "84456896",
+        "job_title": "Search Operations Site Lead - Trust & Safety",
+        "company": "TIKTOK PTE LTD (TIKTOK)",
+        "listing_date": "2025-05-24T00:26:11Z"
+    },
+    {
+        "job_id": "84388682",
+        "job_title": "Finance Operations Analyst",
+        "company": "Kitabisa",
+        "listing_date": "2025-05-21T09:22:20Z"
+    },
+    {
+        "job_id": "84367653",
+        "job_title": "Account Manager",
+        "company": "PT Trinet Prima Solusi",
+        "listing_date": "2025-05-21T02:55:36Z"
+    },
+    {
+        "job_id": "84483122",
+        "job_title": "IT Infrastructure",
+        "company": "PT Dipo Star Finance",
+        "listing_date": "2025-05-26T11:19:43Z"
+    },
+    {
+        "job_id": "84353643",
+        "job_title": "ICT Account Executive",
+        "company": "PT PGAS Telekomunikasi Nusantara",
+        "listing_date": "2025-05-21T08:41:12Z"
+    },
+    {
+        "job_id": "84345668",
+        "job_title": "Service Desk Staff",
+        "company": "PT CRIF Lembaga Informasi Keuangan",
+        "listing_date": "2025-05-20T06:29:14Z"
+    },
+    {
+        "job_id": "84407581",
+        "job_title": "Junior System Analyst",
+        "company": "Private Advertiser",
+        "listing_date": "2025-05-22T08:28:45Z"
+    },
+    {
+        "job_id": "84407581",
+        "job_title": "Junior System Analyst",
+        "company": "Private Advertiser",
+        "listing_date": "2025-05-22T08:28:45Z"
+    },
+    {
+        "job_id": "84478316",
+        "job_title": "Oracle Financial Senior Consultant",
+        "company": "PT. HAND Solutions Indonesia",
+        "listing_date": "2025-05-26T08:19:12Z"
+    },
+    {
+        "job_id": "84436497",
+        "job_title": "Solution Analyst",
+        "company": "PT Bumi Amartha Teknologi Mandiri",
+        "listing_date": "2025-05-23T07:21:23Z"
+    },
+    {
+        "job_id": "84351541",
+        "job_title": "Java Developer (Junior Supervisor)",
+        "company": "Hanwha Life Insurance Indonesia",
+        "listing_date": "2025-05-20T09:22:05Z"
+    },
+    {
+        "job_id": "84439682",
+        "job_title": "Java Application Developer - IT Consulting - Jakarta (B-119562)",
+        "company": "RGF HR Agent Indonesia",
+        "listing_date": "2025-05-23T09:02:05Z"
+    },
+    {
+        "job_id": "84407264",
+        "job_title": "Java Developer - Spring Boot (Banking Industry)",
+        "company": "Geekhunter",
+        "listing_date": "2025-05-22T08:14:44Z"
+    },
+    {
+        "job_id": "84425413",
+        "job_title": "IOS Developer",
+        "company": "Geekhunter",
+        "listing_date": "2025-05-23T02:28:42Z"
+    },
+    {
+        "job_id": "84364587",
+        "job_title": "SAP FICO Internal Consultant",
+        "company": "ASIA PULP AND PAPER",
+        "listing_date": "2025-05-21T01:30:51Z"
+    },
+    {
+        "job_id": "84470821",
+        "job_title": "Technical Consultant Dynamics 365 FO",
+        "company": "Cikarang Inland Port, Cikarang",
+        "listing_date": "2025-05-26T04:30:47Z"
+    },
+    {
+        "job_id": "84441716",
+        "job_title": "IT Business Analyst",
+        "company": "PT Visionet Data Internasional",
+        "listing_date": "2025-05-23T10:05:55Z"
+    },
+    {
+        "job_id": "84474599",
+        "job_title": "Sr. Consultant, Client Success",
+        "company": "PT Visai Indonesia",
+        "listing_date": "2025-05-26T02:15:45Z"
+    },
+    {
+        "job_id": "84350201",
+        "job_title": "Specialist SAP FICO",
+        "company": "Private Advertiser",
+        "listing_date": "2025-05-22T06:51:06Z"
+    },
+    {
+        "job_id": "84445800",
+        "job_title": "SAP Technical Specialist",
+        "company": "PT Ithaca Resources",
+        "listing_date": "2025-05-20T17:00:00Z"
+    },
+    {
+        "job_id": "84440988",
+        "job_title": "Call for Experts - DFAT Indonesia Infrastructure and Climate Finance",
+        "company": "RTI US",
+        "listing_date": "2025-05-23T07:18:41Z"
+    },
+    {
+        "job_id": "84378663",
+        "job_title": "Implementation Specialist – GuestPro Project Team",
+        "company": "PT. GuestPro Teknologi Indonesia",
+        "listing_date": "2025-05-21T10:56:46Z"
+    },
+    {
+        "job_id": "84415987",
+        "job_title": "Odoo Developer - Can Join ASAP",
+        "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+        "listing_date": "2025-05-22T07:32:51Z"
+    },
+    {
+        "job_id": "84395541",
+        "job_title": "SAP",
+        "company": "PT Vanz Inovatif Teknologi",
+        "listing_date": "2025-05-22T02:14:20Z"
+    },
+    {
+        "job_id": "84409801",
+        "job_title": "Analytical Lead",
+        "company": "Company Confidential",
+        "listing_date": "2025-05-22T03:04:33Z"
+    },
+    {
+        "job_id": "84622129",
+        "job_title": "Senior Network Security Engineer",
+        "company": "PT Dinamika Sistem Integrasi Solusi",
+        "listing_date": "2025-06-02T02:23:11Z"
+    },
+    {
+        "job_id": "84634573",
+        "job_title": "IT Network & Server Administrator Staff - Manufacture - Cikarang (B-119867)",
+        "company": "RGF HR Agent Indonesia",
+        "listing_date": "2025-06-02T09:15:45Z"
+    },
+    {
+        "job_id": "84629563",
+        "job_title": "IT Programmer",
+        "company": "PT Trans Indonesia Superkoridor",
+        "listing_date": "2025-06-02T06:23:53Z"
+    },
+    {
+        "job_id": "84614844",
+        "job_title": "IT Service Engineer",
+        "company": "PT Humana International Indonesia",
+        "listing_date": "2025-06-01T07:34:55Z"
+    },
+    {
+        "job_id": "84587894",
+        "job_title": "Head of IT Infrastructure & Cybersecurity",
+        "company": "Private Advertiser",
+        "listing_date": "2025-05-30T06:19:19Z"
+    },
+    {
+        "job_id": "84633724",
+        "job_title": "Excel Automation & VBA Development Internship",
+        "company": "PT SMART,Tbk",
+        "listing_date": "2025-06-02T08:30:52Z"
+    },
+    {
+        "job_id": "84591198",
+        "job_title": "IT Business Analyst (Contract 6-months)",
+        "company": "Hanwha Life Insurance Indonesia",
+        "listing_date": "2025-05-30T07:44:48Z"
+    },
+    {
+        "job_id": "84635331",
+        "job_title": "Technical Engineer (Semarang)",
+        "company": "PT. Metrodata Electronics, Tbk",
+        "listing_date": "2025-06-02T09:43:17Z"
+    },
+    {
+        "job_id": "84587155",
+        "job_title": "Senior System Engineer",
+        "company": "Private Advertiser",
+        "listing_date": "2025-05-30T05:56:55Z"
+    },
+    {
+        "job_id": "84631849",
+        "job_title": "Threat Analytics",
+        "company": "PT Bank JTrust Indonesia, Tbk",
+        "listing_date": "2025-06-02T07:20:49Z"
+    },
+    {
+        "job_id": "84538366",
+        "job_title": "IT Network Operation",
+        "company": "PT SMART,Tbk",
+        "listing_date": "2025-05-28T09:01:10Z"
+    },
+    {
+        "job_id": "84625539",
+        "job_title": "SYSTEM & OPERATION SUPPORT JR",
+        "company": "PT. Metrodata Electronics, Tbk",
+        "listing_date": "2025-06-01T12:00:00Z"
+    },
+    {
+        "job_id": "84511233",
+        "job_title": "Network Infrastructure (IT Operations) - Team Lead",
+        "company": "PT Bank DBS Indonesia",
+        "listing_date": "2025-05-27T09:44:58Z"
+    },
+    {
+        "job_id": "84540746",
+        "job_title": "IT Officer",
+        "company": "Stroberi Accessories",
+        "listing_date": "2025-05-28T10:22:05Z"
+    },
+    {
+        "job_id": "84537372",
+        "job_title": "Project Manager Information Technology",
+        "company": "PT Dinamika Sistem Integrasi Solusi",
+        "listing_date": "2025-05-28T08:15:14Z"
+    },
+    {
+        "job_id": "84510777",
+        "job_title": "IT Supervisor",
+        "company": "Eurokars Group",
+        "listing_date": "2025-05-27T09:31:08Z"
+    },
+    {
+        "job_id": "84498058",
+        "job_title": "IT Product Quality Control Junior",
+        "company": "PT LANGGENG SUKSES ABADI TEKHNOLOGI",
+        "listing_date": "2025-05-27T03:44:06Z"
+    },
+    {
+        "job_id": "84523890",
+        "job_title": "Technical Support and Multimedia Coordinator",
+        "company": "Jakarta Intercultural School",
+        "listing_date": "2025-05-28T02:11:18Z"
+    },
+    {
+        "job_id": "84539953",
+        "job_title": "IT System Operation Staff - Server",
+        "company": "PT Kb Valbury Sekuritas",
+        "listing_date": "2025-05-28T09:50:48Z"
+    },
+    {
+        "job_id": "84579969",
+        "job_title": "IT Infrastructure Manager",
+        "company": "Private Advertiser",
+        "listing_date": "2025-05-30T02:20:23Z"
+    },
+    {
+        "job_id": "84529604",
+        "job_title": "Junior Power BI",
+        "company": "PT. HTC Global Software Services",
+        "listing_date": "2025-05-28T04:45:42Z"
+    },
+    {
+        "job_id": "84498848",
+        "job_title": "IT - SALES MANAGER",
+        "company": "PT S Net Indonesia",
+        "listing_date": "2025-05-28T01:31:32Z"
+    },
+    {
+        "job_id": "84508053",
+        "job_title": "Business Intelligence - Data Operations",
+        "company": "PT Bank Seabank Indonesia",
+        "listing_date": "2025-05-27T07:54:11Z"
+    },
+    {
+        "job_id": "84495290",
+        "job_title": "IT Manager",
+        "company": "BIENSI FESYENINDO (3SECOND GROUP)",
+        "listing_date": "2025-05-27T02:32:38Z"
+    },
+    {
+        "job_id": "84527251",
+        "job_title": "IT Governance, Risk and Compliance Specialist",
+        "company": "PT Motasa Indonesia ( Ladaku )",
+        "listing_date": "2025-05-28T03:36:46Z"
+    },
+    {
+        "job_id": "84538026",
+        "job_title": "Supervisor IT Support & Networking",
+        "company": "PT Hokinda Citralestari",
+        "listing_date": "2025-05-28T08:45:57Z"
+    },
+    {
+        "job_id": "84522405",
+        "job_title": "IT SUPERVISOR - ERP&WMS IMPLEMENTOR",
+        "company": "PT Chemico Surabaya",
+        "listing_date": "2025-05-28T01:37:27Z"
+    },
+    {
+        "job_id": "84584834",
+        "job_title": "IT Business Solution Specialist – Insurance Industry",
+        "company": "PT Intrias Mandiri Sejati",
+        "listing_date": "2025-05-30T04:40:28Z"
+    },
+    {
+        "job_id": "84598567",
+        "job_title": "Database Section Head (IT)",
+        "company": "Private Advertiser",
+        "listing_date": "2025-05-30T10:27:14Z"
+    },
+    {
+        "job_id": "84495663",
+        "job_title": "Capacity & Data Center Infra Engineer",
+        "company": "PT Netciti Persada",
+        "listing_date": "2025-05-27T02:44:01Z"
+    },
+    {
+        "job_id": "84533928",
+        "job_title": "Jira Administrator (IT Service Management Admin)",
+        "company": "PT Panca Amara Utama",
+        "listing_date": "2025-05-28T06:59:20Z"
+    },
+    {
+        "job_id": "84506383",
+        "job_title": "HR Manager",
+        "company": "Private Advertiser",
+        "listing_date": "2025-05-27T07:12:51Z"
+    },
+    {
+        "job_id": "84537638",
+        "job_title": "Information Communication Technology Teacher",
+        "company": "Yayasan Budi Pekerti Luhur",
+        "listing_date": "2025-05-28T08:27:25Z"
+    },
+    {
+        "job_id": "84506908",
+        "job_title": "Application Development Manager",
+        "company": "IDS Medical Systems Group",
+        "listing_date": "2025-05-27T07:24:52Z"
+    },
+    {
+        "job_id": "84507728",
+        "job_title": "Senior SAN Engineer (Enterprise Storage)",
+        "company": "Ayo Berinovasi Internasional",
+        "listing_date": "2025-05-27T07:45:37Z"
+    },
+    {
+        "job_id": "84626657",
+        "job_title": "IT Staff",
+        "company": "Private Advertiser",
+        "listing_date": "2025-06-02T04:36:38Z"
+    },
+    {
+        "job_id": "84540611",
+        "job_title": "IT Officer",
+        "company": "PT Solusi Gadai Pintar",
+        "listing_date": "2025-05-28T10:16:23Z"
+    },
+    {
+        "job_id": "84512602",
+        "job_title": "Data Visualisasi",
+        "company": "PT Avows Technologies",
+        "listing_date": "2025-05-27T10:37:19Z"
+    },
+    {
+        "job_id": "84602368",
+        "job_title": "IT Manager25089061",
+        "company": "TA AKTANA a Luxury Collection Resort & Spa Labuan Bajo",
+        "listing_date": "2025-05-30T11:17:41Z"
+    },
+    {
+        "job_id": "84512748",
+        "job_title": "Data Engineer",
+        "company": "PT Avows Technologies",
+        "listing_date": "2025-05-27T10:45:04Z"
+    },
+    {
+        "job_id": "84630104",
+        "job_title": "IT Infra Engineer",
+        "company": "PT JGC Indonesia",
+        "listing_date": "2025-06-02T04:44:23Z"
+    },
+    {
+        "job_id": "84487998",
+        "job_title": "Information Technology Audit",
+        "company": "PT Avia Avian Tbk",
+        "listing_date": "2025-05-26T19:58:18Z"
+    },
+    {
+        "job_id": "84599945",
+        "job_title": "IT Manager",
+        "company": "Hotel Majapahit Surabaya",
+        "listing_date": "2025-05-30T12:13:33Z"
+    },
+    {
+        "job_id": "84616323",
+        "job_title": "MS Engineer (L1)",
+        "company": "PT NTT Indonesia",
+        "listing_date": "2025-06-01T05:30:00Z"
+    },
+    {
+        "job_id": "84634862",
+        "job_title": "MS Engineer (L1)",
+        "company": "NTT Communications",
+        "listing_date": "2025-06-01T00:00:00Z"
+    },
+    {
+        "job_id": "84534126",
+        "job_title": "IT Support Coordinator",
+        "company": "PT Avows Technologies",
+        "listing_date": "2025-05-28T07:04:43Z"
+    },
+    {
+        "job_id": "84512799",
+        "job_title": "Project Management Officer",
+        "company": "PT Avows Technologies",
+        "listing_date": "2025-05-28T06:35:17Z"
+    },
+    {
+        "job_id": "84485719",
+        "job_title": "Java Lead Developer",
+        "company": "MSBU Konsultan Indonesia",
+        "listing_date": "2025-05-26T08:11:22Z"
+    },
+    {
+        "job_id": "84485689",
+        "job_title": "Technical Business Analyst",
+        "company": "Quantyc.ai",
+        "listing_date": "2025-05-26T06:54:25Z"
+    },
+    {
+        "job_id": "84598386",
+        "job_title": "Networking Technical Support",
+        "company": "PT Rapid Teknologi Indonesia",
+        "listing_date": "2025-05-30T10:17:46Z"
+    },
+    {
+        "job_id": "84571289",
+        "job_title": "IT Systems & Workflow Coordinator",
+        "company": "PT Performa Projects Indonesia",
+        "listing_date": "2025-05-29T14:31:06Z"
+    },
+    {
+        "job_id": "84585227",
+        "job_title": "Product Manager",
+        "company": "Vortex Buana Edumedia",
+        "listing_date": "2025-05-30T04:53:23Z"
+    },
+    {
+        "job_id": "84547946",
+        "job_title": "Senior Associate Technical Services Cross Technology Systems",
+        "company": "NTT Communications",
+        "listing_date": "2025-05-28T00:00:00Z"
+    },
+    {
+        "job_id": "84544856",
+        "job_title": "Senior Associate Technical Services Cross Technology Systems",
+        "company": "PT NTT Indonesia",
+        "listing_date": "2025-05-28T00:00:00Z"
+    },
+    {
+        "job_id": "84494539",
+        "job_title": "Software Developer Intern",
+        "company": "PT ASURANSI SIMAS JIWA",
+        "listing_date": "2025-05-27T02:10:50Z"
+    },
+    {
+        "job_id": "84545738",
+        "job_title": "MS Engineer (L2)",
+        "company": "PT NTT Indonesia",
+        "listing_date": "2025-05-28T09:30:00Z"
+    },
+    {
+        "job_id": "84544861",
+        "job_title": "MS Engineer (L2)",
+        "company": "PT NTT Indonesia",
+        "listing_date": "2025-05-28T00:00:00Z"
+    },
+    {
+        "job_id": "84539339",
+        "job_title": "Senior SAN Engineer (Enterprise Storage)",
+        "company": "Bit by Bit Inc",
+        "listing_date": "2025-05-27T18:16:17Z"
+    },
+    {
+        "job_id": "84491128",
+        "job_title": "Unit Head of IT Infrastructure and Support",
+        "company": "Easy Sunday",
+        "listing_date": "2025-05-26T21:25:30Z"
+    },
+    {
+        "job_id": "84545634",
+        "job_title": "Senior Associate Technical Services Cross Technology Systems Integration",
+        "company": "PT NTT Indonesia",
+        "listing_date": "2025-05-28T09:30:00Z"
+    },
+    {
+        "job_id": "84518308",
+        "job_title": "MS Engineer (L2)",
+        "company": "PT NTT Indonesia",
+        "listing_date": "2025-05-27T09:00:00Z"
+    },
+    {
+        "job_id": "84592058",
+        "job_title": "Senior Product Management Hardware",
+        "company": "PT Elang Strategi Adidaya",
+        "listing_date": "2025-05-30T08:15:28Z"
+    },
+    {
+        "job_id": "84485682",
+        "job_title": "Internship Infrastructure Operations (Infra Ops) Engineer - (FRESH GRADUATES)",
+        "company": "Tridorian",
+        "listing_date": "2025-05-26T15:40:03Z"
+    },
+    {
+        "job_id": "84510332",
+        "job_title": "IT OFFICER (SUPERVISOR)",
+        "company": "PT AKR Surabaya Land Corporindo",
+        "listing_date": "2025-05-27T09:17:29Z"
+    },
+    {
+        "job_id": "84493496",
+        "job_title": "IT Support Supervisor",
+        "company": "PT Anugerah Citra Walet Indonesia",
+        "listing_date": "2025-05-27T01:43:35Z"
+    },
+    {
+        "job_id": "84488376",
+        "job_title": "Architect II - Application Development",
+        "company": "IDS Medical Systems Group",
+        "listing_date": "2025-05-26T12:00:00Z"
+    },
+    {
+        "job_id": "84507927",
+        "job_title": "Technical Support Engineer",
+        "company": "assima",
+        "listing_date": "2025-05-26T17:04:48Z"
+    },
+    {
+        "job_id": "84485739",
+        "job_title": "Corporate IT Operations Manager",
+        "company": "EKA HOSPITAL",
+        "listing_date": "2025-05-26T07:07:34Z"
+    },
+    {
+        "job_id": "84470425",
+        "job_title": "IT Senior Engineer",
+        "company": "PT. Pinang Sejahtera Inti",
+        "listing_date": "2025-05-26T05:59:18Z"
+    },
+    {
+        "job_id": "84469137",
+        "job_title": "SOC - CX System  & SOC Analyst",
+        "company": "PT Eka Mas Republik",
+        "listing_date": "2025-05-26T03:43:44Z"
+    },
+    {
+        "job_id": "84603377",
+        "job_title": "Golang Developer",
+        "company": "PCS Group",
+        "listing_date": "2025-05-30T10:29:43Z"
+    },
+    {
+        "job_id": "84557450",
+        "job_title": "QA Engineer",
+        "company": "Staffinc",
+        "listing_date": "2025-05-29T04:40:47Z"
+    },
+    {
+        "job_id": "84466916",
+        "job_title": "IT Business Analyst Officer",
+        "company": "PT Asuransi Jiwa BCA",
+        "listing_date": "2025-05-26T02:54:16Z"
+    },
+    {
+        "job_id": "84538326",
+        "job_title": "IT Business Analyst",
+        "company": "PT Nextalent Talenta Nusantara",
+        "listing_date": "2025-05-28T08:59:41Z"
+    },
+    {
+        "job_id": "84593350",
+        "job_title": "IT INFRASTRUCTURE ENGINEERING",
+        "company": "PT Panasonic Industrial Device Batam",
+        "listing_date": "2025-05-30T08:57:53Z"
+    },
+    {
+        "job_id": "84576003",
+        "job_title": "IT Technical Leader",
+        "company": "PT Strategi Digital Agro",
+        "listing_date": "2025-05-30T00:12:08Z"
+    },
+    {
+        "job_id": "84634506",
+        "job_title": "ASSISTANT / JUNIOR IT PROJECT MANAGER",
+        "company": "PT Genesys Integrated Indonesia",
+        "listing_date": "2025-06-02T09:12:28Z"
+    },
+    {
+        "job_id": "84512550",
+        "job_title": "General Affairs & IT Support",
+        "company": "PT TNP Maternity and Baby Trading",
+        "listing_date": "2025-05-27T10:35:04Z"
+    },
+    {
+        "job_id": "84538216",
+        "job_title": "IT Network Management Officer",
+        "company": "PT Bank IBK Indonesia, Tbk",
+        "listing_date": "2025-05-28T08:54:40Z"
+    },
+    {
+        "job_id": "84499510",
+        "job_title": "ERP Functional Support Staff",
+        "company": "PT United Family Food (Jakarta)",
+        "listing_date": "2025-05-27T04:23:25Z"
+    },
+    {
+        "job_id": "84509224",
+        "job_title": "Infra Support Analyst",
+        "company": "Ofi Indonesia",
+        "listing_date": "2025-05-27T08:38:55Z"
+    },
+    {
+        "job_id": "84627660",
+        "job_title": "BUSINESS DEVELOPMENT",
+        "company": "PT UNIQUE",
+        "listing_date": "2025-06-02T05:14:06Z"
+    },
+    {
+        "job_id": "84060033",
+        "job_title": "Software Technical Support International",
+        "company": "PT Hashmicro Solusi Indonesia",
+        "listing_date": "2025-05-27T06:30:48Z"
+    },
+    {
+        "job_id": "84508631",
+        "job_title": "IT BUSINESS ANALYST (INSURANCE)",
+        "company": "PT Lawencon Internasional",
+        "listing_date": "2025-05-27T08:14:27Z"
+    },
+    {
+        "job_id": "84510609",
+        "job_title": "Business Analyst (Banking/Cash Management)",
+        "company": "PT. Wide Technologies Indonesia",
+        "listing_date": "2025-05-27T09:25:55Z"
+    },
+    {
+        "job_id": "84622629",
+        "job_title": "Oracle Database (DBA)",
+        "company": "PT Adi Data Informatika",
+        "listing_date": "2025-06-02T02:37:03Z"
+    },
+    {
+        "job_id": "84526643",
+        "job_title": "IT Project Management Support Officer",
+        "company": "Yayasan Bina Nusantara",
+        "listing_date": "2025-05-28T03:22:54Z"
+    },
+    {
+        "job_id": "84595402",
+        "job_title": "Resto Software Administrator (IIko)",
+        "company": "PT. MATCH MAKERS AGENCY",
+        "listing_date": "2025-05-30T09:38:59Z"
+    },
+    {
+        "job_id": "84059920",
+        "job_title": "ERP Consultant International",
+        "company": "PT Hashmicro Solusi Indonesia",
+        "listing_date": "2025-05-27T06:27:34Z"
+    },
+    {
+        "job_id": "84538338",
+        "job_title": "IT Sales Manager",
+        "company": "PT Visionet Data Internasional",
+        "listing_date": "2025-05-28T09:00:04Z"
+    },
+    {
+        "job_id": "84602318",
+        "job_title": "Engineering Manager II (Consumer Experience)",
+        "company": "PT Solusi Transportasi Indonesia",
+        "listing_date": "2025-05-30T05:30:00Z"
+    },
+    {
+        "job_id": "84060141",
+        "job_title": "ERP Project Manager International",
+        "company": "PT Hashmicro Solusi Indonesia",
+        "listing_date": "2025-05-27T06:31:07Z"
+    },
+    {
+        "job_id": "84580137",
+        "job_title": "Delta Future Leaders 2025\u000b Management Associate Program (Batch 2)",
+        "company": "Delta Electronics (Thailand) Public Company Limited",
+        "listing_date": "2025-05-30T02:25:27Z"
+    },
+    {
+        "job_id": "84538637",
+        "job_title": "IT Engineer",
+        "company": "PT SANKO DENKI INDONESIA",
+        "listing_date": "2025-06-02T01:40:58Z"
+    },
+    {
+        "job_id": "84592628",
+        "job_title": "Data Analyst",
+        "company": "PT Inovasi Informatika Indonesia",
+        "listing_date": "2025-05-30T08:34:27Z"
+    },
+    {
+        "job_id": "84573973",
+        "job_title": "IT Governance Strategist",
+        "company": "Cermati Fintech Group",
+        "listing_date": "2025-05-29T19:46:37Z"
+    },
+    {
+        "job_id": "84533926",
+        "job_title": "IT & DATA MANAGEMENT DEPARTMENT HEAD",
+        "company": "AGRO BOGA UTAMA GROUP",
+        "listing_date": "2025-05-28T06:59:27Z"
+    },
+    {
+        "job_id": "84581197",
+        "job_title": "IT Project Manager",
+        "company": "PT. Emneltech Solusi Indonesia",
+        "listing_date": "2025-05-30T02:56:19Z"
+    },
+    {
+        "job_id": "84505617",
+        "job_title": "IT Governance, Risk and Compliance Staff",
+        "company": "PT Brinks Solutions Indonesia",
+        "listing_date": "2025-05-27T06:59:58Z"
+    },
+    {
+        "job_id": "84505895",
+        "job_title": "Project Management Officer (PMO)",
+        "company": "IT & Teknologi",
+        "listing_date": "2025-05-27T08:27:10Z"
+    },
+    {
+        "job_id": "84510563",
+        "job_title": "Data Analyst",
+        "company": "PT Commeasure Solutions Indonesia",
+        "listing_date": "2025-05-27T09:24:38Z"
+    },
+    {
+        "job_id": "84458699",
+        "job_title": "Data Engineer",
+        "company": "PT. IDX CONSULTING",
+        "listing_date": "2025-05-25T14:13:39Z"
+    },
+    {
+        "job_id": "84469675",
+        "job_title": "Data Engineer",
+        "company": "PT. Berca Hardayaperkasa",
+        "listing_date": "2025-05-26T03:56:37Z"
+    },
+    {
+        "job_id": "84506824",
+        "job_title": "Dynamics 365 FO Technical Consultant",
+        "company": "sa.global",
+        "listing_date": "2025-05-27T03:00:44Z"
+    },
+    {
+        "job_id": "84482726",
+        "job_title": "IT Support",
+        "company": "Private Advertiser",
+        "listing_date": "2025-05-26T10:38:59Z"
+    },
+    {
+        "job_id": "84632274",
+        "job_title": "System Analyst",
+        "company": "PT Bumi Amartha Teknologi Mandiri",
+        "listing_date": "2025-06-02T07:33:25Z"
+    },
+    {
+        "job_id": "84635463",
+        "job_title": "System Analyst (.NET)",
+        "company": "PT Lawencon Internasional",
+        "listing_date": "2025-06-02T09:47:10Z"
+    },
+    {
+        "job_id": "84633220",
+        "job_title": "Operational Tech Lead",
+        "company": "PT INDONESIA AIRAWATA FINANCE",
+        "listing_date": "2025-06-02T08:08:02Z"
+    },
+    {
+        "job_id": "84591255",
+        "job_title": "Business Analyst Eproc",
+        "company": "PT. Berca Hardayaperkasa",
+        "listing_date": "2025-05-30T07:46:24Z"
+    },
+    {
+        "job_id": "84576521",
+        "job_title": "IT Business Analyst",
+        "company": "PT Salva Teknologi Digital",
+        "listing_date": "2025-05-30T00:31:20Z"
+    },
+    {
+        "job_id": "84492086",
+        "job_title": "IT APPLICATION TECHNICAL SUPPORT BANKING",
+        "company": "PT Vads Indonesia",
+        "listing_date": "2025-05-27T01:00:51Z"
+    },
+    {
+        "job_id": "84632730",
+        "job_title": "Engineering Tech Lead",
+        "company": "PT INDONESIA AIRAWATA FINANCE",
+        "listing_date": "2025-06-02T07:48:45Z"
+    },
+    {
+        "job_id": "84510160",
+        "job_title": "System Analyst & Implementation",
+        "company": "PT. ALPEN FOOD INDUSTRY",
+        "listing_date": "2025-05-27T09:09:50Z"
+    },
+    {
+        "job_id": "84580277",
+        "job_title": "Data Analyst - Automotive - Jakarta (B-119741)",
+        "company": "RGF HR Agent Indonesia",
+        "listing_date": "2025-05-30T02:29:24Z"
+    },
+    {
+        "job_id": "84626577",
+        "job_title": "Technical Consultant Analyst",
+        "company": "PT. Metrodata Electronics, Tbk",
+        "listing_date": "2025-06-01T12:00:00Z"
+    },
+    {
+        "job_id": "84507560",
+        "job_title": "Account Executive HRIS",
+        "company": "PT JELAJAH DATA SEMESTA",
+        "listing_date": "2025-05-27T07:41:01Z"
+    },
+    {
+        "job_id": "84538660",
+        "job_title": "Telecollection System & Analyst Staff",
+        "company": "PT Bussan Auto Finance (BAF)",
+        "listing_date": "2025-05-28T09:09:31Z"
+    },
+    {
+        "job_id": "84515002",
+        "job_title": "IT HELPDESK SUPERVISOR",
+        "company": "PT Indomobil Finance Indonesia",
+        "listing_date": "2025-05-27T10:12:08Z"
+    },
+    {
+        "job_id": "84523947",
+        "job_title": "IT SAP FICO",
+        "company": "PT BERLIAN DUTA ENERGI",
+        "listing_date": "2025-05-28T02:13:22Z"
+    },
+    {
+        "job_id": "84605996",
+        "job_title": "Technical Consultant / Programmer Apex - Salesforce CRM Software & Application",
+        "company": "PT Harrisma Informatika Jaya",
+        "listing_date": "2025-05-31T01:37:45Z"
+    },
+    {
+        "job_id": "84515007",
+        "job_title": "IT PROGRAMMER STAFF",
+        "company": "PT Indomobil Finance Indonesia",
+        "listing_date": "2025-05-27T10:12:02Z"
+    },
+    {
+        "job_id": "84602621",
+        "job_title": "SAP CPI (Cloud Platform Integration)",
+        "company": "PT Accenture",
+        "listing_date": "2025-05-30T06:00:00Z"
+    },
+    {
+        "job_id": "84542407",
+        "job_title": "Solution Architect Enterprise Account",
+        "company": "PT XL Axiata Tbk",
+        "listing_date": "2025-05-28T09:11:43Z"
+    },
+    {
+        "job_id": "84512076",
+        "job_title": "Lead Data Engineer",
+        "company": "PT Solusi Pembayaran Elektronik",
+        "listing_date": "2025-05-27T10:13:53Z"
+    },
+    {
+        "job_id": "84508476",
+        "job_title": "Programmer - ASP.Net",
+        "company": "PT SBG Solusi Bisnis",
+        "listing_date": "2025-05-27T08:07:44Z"
+    },
+    {
+        "job_id": "84560413",
+        "job_title": "Lead Product Manager - Payment to Merchants",
+        "company": "PT Solusi Transportasi Indonesia",
+        "listing_date": "2025-05-29T03:43:18Z"
+    },
+    {
+        "job_id": "84516770",
+        "job_title": "ETL Developer (ETL + Life Asia)",
+        "company": "PT Accenture",
+        "listing_date": "2025-05-27T07:30:00Z"
+    },
+    {
+        "job_id": "84628960",
+        "job_title": "SAP Consultant",
+        "company": "PT Kamoro Maxima Integra",
+        "listing_date": "2025-06-02T06:05:23Z"
+    },
+    {
+        "job_id": "84634723",
+        "job_title": "Account Executive",
+        "company": "PT Comtronics Systems",
+        "listing_date": "2025-06-02T03:56:39Z"
+    },
+    {
+        "job_id": "84514029",
+        "job_title": "Accounting Consultant",
+        "company": "PT Hashmicro Solusi Indonesia",
+        "listing_date": "2025-05-27T09:19:58Z"
+    },
+    {
+        "job_id": "84613098",
+        "job_title": "Solution Architect",
+        "company": "Redis Labs",
+        "listing_date": "2025-05-30T12:00:00Z"
+    },
+    {
+        "job_id": "84603228",
+        "job_title": "Oracle Database Administrator",
+        "company": "PT IONPay Networks (NICEPAY)",
+        "listing_date": "2025-05-30T07:27:01Z"
+    },
+    {
+        "job_id": "84513705",
+        "job_title": "Application Developer Jr.",
+        "company": "Mitra Integrasi Informatika",
+        "listing_date": "2025-05-26T12:00:00Z"
+    },
+    {
+        "job_id": "84555725",
+        "job_title": "Senior Risk Manager",
+        "company": "PT Mid Solusi Nusantara (MEKARI)",
+        "listing_date": "2025-05-28T12:00:00Z"
+    },
+    {
+        "job_id": "84485797",
+        "job_title": "Technical Analyst",
+        "company": "PT Bumi Amartha Teknologi Mandiri",
+        "listing_date": "2025-05-26T09:30:56Z"
+    },
+    {
+        "job_id": "84544889",
+        "job_title": "Solutions Architect",
+        "company": "PT NTT Indonesia",
+        "listing_date": "2025-05-28T00:00:00Z"
+    },
+    {
+        "job_id": "84548105",
+        "job_title": "Solutions Architect",
+        "company": "NTT Communications",
+        "listing_date": "2025-05-28T00:00:00Z"
+    },
+    {
+        "job_id": "84545675",
+        "job_title": "Solutions Architect",
+        "company": "PT NTT Indonesia",
+        "listing_date": "2025-05-28T09:30:00Z"
+    },
+    {
+        "job_id": "84521000",
+        "job_title": "Project Manager (Banking Industry)",
+        "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+        "listing_date": "2025-05-27T10:10:58Z"
+    },
+    {
+        "job_id": "84515072",
+        "job_title": "Staf Unit Pengembangan Sistem Bisnis Pasar Modal",
+        "company": "PT Kliring Penjaminan Efek Indonesia (KPEI)",
+        "listing_date": "2025-05-27T10:38:06Z"
+    },
+    {
+        "job_id": "84513533",
+        "job_title": "Head of Data (Indonesia)",
+        "company": "Buku Warung",
+        "listing_date": "2025-05-27T10:21:31Z"
+    },
+    {
+        "job_id": "84484074",
+        "job_title": "Field Sales Representative, Corporate, Google Cloud",
+        "company": "Company Confidential",
+        "listing_date": "2025-05-26T09:32:00Z"
+    },
+    {
+        "job_id": "84761700",
+        "job_title": "IT",
+        "company": "PT PUTRA MANDIRI PERKASA INDONESIA",
+        "listing_date": "2025-06-07T04:35:40Z"
+    },
+    {
+        "job_id": "84718301",
+        "job_title": "Junior Consultant IT Planning Enterprise Architecture",
+        "company": "PT Transforma Rekayasa & Solusi",
+        "listing_date": "2025-06-05T06:02:19Z"
+    },
+    {
+        "job_id": "84778912",
+        "job_title": "IT MANAGER",
+        "company": "Private Advertiser",
+        "listing_date": "2025-06-09T04:49:02Z"
+    },
+    {
+        "job_id": "84660672",
+        "job_title": "Country Head (Software Information Technology)",
+        "company": "Private Advertiser",
+        "listing_date": "2025-06-03T07:19:45Z"
+    },
+    {
+        "job_id": "84709914",
+        "job_title": "Data Analyst Staff",
+        "company": "PT Sukanda Djaya",
+        "listing_date": "2025-06-05T02:13:55Z"
+    },
+    {
+        "job_id": "84712031",
+        "job_title": "IT System Development Junior Executive (Assistant Manager)",
+        "company": "PT Tugu Reasuransi Indonesia",
+        "listing_date": "2025-06-05T03:12:09Z"
+    },
+    {
+        "job_id": "84719607",
+        "job_title": "Supervisor Management Information System",
+        "company": "PT. MULTI MEDIKA INTERNASIONAL, TBK",
+        "listing_date": "2025-06-05T06:37:40Z"
+    },
+    {
+        "job_id": "84712132",
+        "job_title": "Client Support Engineer",
+        "company": "PT Nusantara Compnet Integrator",
+        "listing_date": "2025-06-05T03:14:31Z"
+    },
+    {
+        "job_id": "84649697",
+        "job_title": "IT Development Supervisor (handle system CARE)",
+        "company": "PT Asuransi Harta Aman Pratama Tbk",
+        "listing_date": "2025-06-03T02:39:01Z"
+    },
+    {
+        "job_id": "84716895",
+        "job_title": "Business Analyst & Implementor",
+        "company": "PT Media Tiga Warna",
+        "listing_date": "2025-06-05T05:12:40Z"
+    },
+    {
+        "job_id": "84785877",
+        "job_title": "IT & System Head",
+        "company": "PT Putra Perkasa Abadi",
+        "listing_date": "2025-06-09T09:28:14Z"
+    },
+    {
+        "job_id": "84662944",
+        "job_title": "Supervisor IT - Yogyakarta",
+        "company": "PT Mitra Koleksi Mandiri",
+        "listing_date": "2025-06-03T08:53:22Z"
+    },
+    {
+        "job_id": "84725971",
+        "job_title": "IT Infrastructure",
+        "company": "PT Reasuransi Maipark Indonesia",
+        "listing_date": "2025-06-05T10:02:19Z"
+    },
+    {
+        "job_id": "84722954",
+        "job_title": "IT Infrastructure Operation Staff (Placement : Head Office - Jakarta)",
+        "company": "PT Halmahera Jaya Feronikel",
+        "listing_date": "2025-06-05T08:08:58Z"
+    },
+    {
+        "job_id": "84724329",
+        "job_title": "IT",
+        "company": "PT. Has Putra Indonesia",
+        "listing_date": "2025-06-05T09:20:12Z"
+    },
+    {
+        "job_id": "84785764",
+        "job_title": "IT Manager – Coal Mining Industry",
+        "company": "Private Advertiser",
+        "listing_date": "2025-06-09T09:25:39Z"
+    },
+    {
+        "job_id": "84663194",
+        "job_title": "IT Planning Manager",
+        "company": "PT Bintraco Dharma Tbk",
+        "listing_date": "2025-06-03T09:05:02Z"
+    },
+    {
+        "job_id": "84661000",
+        "job_title": "IT Section Head",
+        "company": "Adaro Minerals",
+        "listing_date": "2025-06-03T07:31:11Z"
+    },
+    {
+        "job_id": "84659869",
+        "job_title": "IT DATA CENTER (ON-SITE)",
+        "company": "PT. INTERNET PRATAMA INDONESIA TBK",
+        "listing_date": "2025-06-03T06:58:15Z"
+    },
+    {
+        "job_id": "84694967",
+        "job_title": "IT Infrastructure Sysadmin",
+        "company": "PT Equity Life Indonesia",
+        "listing_date": "2025-06-04T09:51:19Z"
+    },
+    {
+        "job_id": "84719717",
+        "job_title": "IT ADMINISTRATOR",
+        "company": "PT. CHALIDANA INTI PERMATA",
+        "listing_date": "2025-06-05T06:39:58Z"
+    },
+    {
+        "job_id": "84652793",
+        "job_title": "IT Compliance Specialist",
+        "company": "PT Wahana Ottomitra Multiartha (WOM Finance), Tbk",
+        "listing_date": "2025-06-03T03:51:28Z"
+    },
+    {
+        "job_id": "84664001",
+        "job_title": "IT Manager",
+        "company": "PT Sinbad Karya Perdagangan",
+        "listing_date": "2025-06-03T09:32:02Z"
+    },
+    {
+        "job_id": "84683946",
+        "job_title": "Manufacturing Process Excellence Analyst",
+        "company": "PT Arya Noble",
+        "listing_date": "2025-06-04T04:07:29Z"
+    },
+    {
+        "job_id": "84691606",
+        "job_title": "IT Supervisor (Oracle) - Manufacture - Bekasi (B-118096)",
+        "company": "RGF HR Agent Indonesia",
+        "listing_date": "2025-06-04T07:30:44Z"
+    },
+    {
+        "job_id": "84680057",
+        "job_title": "System Analyst",
+        "company": "PT Transcosmos Indonesia",
+        "listing_date": "2025-06-04T02:49:13Z"
+    },
+    {
+        "job_id": "84696517",
+        "job_title": "IT Product Manager - Accounting & Tax",
+        "company": "KEMAS SURYA TEKNOVASI",
+        "listing_date": "2025-06-04T10:51:53Z"
+    },
+    {
+        "job_id": "84775229",
+        "job_title": "Odoo Developer",
+        "company": "AGRO BOGA UTAMA GROUP",
+        "listing_date": "2025-06-09T02:50:56Z"
+    },
+    {
+        "job_id": "84724845",
+        "job_title": "IT Manager",
+        "company": "Private Advertiser",
+        "listing_date": "2025-06-05T09:26:06Z"
+    },
+    {
+        "job_id": "84720508",
+        "job_title": "IT Enterprise Architecture Assistant Manager",
+        "company": "PT Mandiri Utama Finance",
+        "listing_date": "2025-06-05T06:56:05Z"
+    },
+    {
+        "job_id": "84703884",
+        "job_title": "Management Information System - Engineer, Network Engineering #3A",
+        "company": "PT Freeport Indonesia",
+        "listing_date": "2025-06-04T17:54:15Z"
+    },
+    {
+        "job_id": "84719327",
+        "job_title": "ENDP _IT Data System Engineer Of HSE Mining (Location: Kalsel)",
+        "company": "Private Advertiser",
+        "listing_date": "2025-06-05T06:29:37Z"
+    },
+    {
+        "job_id": "84694168",
+        "job_title": "Application Consultant",
+        "company": "PT PROPHIX INDO SOLUSI",
+        "listing_date": "2025-06-04T09:09:08Z"
+    },
+    {
+        "job_id": "84654918",
+        "job_title": "IT Consultant",
+        "company": "PT Netmarks Indonesia",
+        "listing_date": "2025-06-03T04:41:58Z"
+    },
+    {
+        "job_id": "84724002",
+        "job_title": "Application Support Manager (D365)",
+        "company": "IDS Medical Systems Group",
+        "listing_date": "2025-06-05T08:56:25Z"
+    },
+    {
+        "job_id": "84667148",
+        "job_title": "Internal Systems Integrator & In-House Automation Consultant",
+        "company": "Private Advertiser",
+        "listing_date": "2025-06-03T13:19:55Z"
+    },
+    {
+        "job_id": "84692696",
+        "job_title": "Data Engineer (ETL Developer)",
+        "company": "PT Informasi Teknologi Indonesia",
+        "listing_date": "2025-06-04T08:07:04Z"
+    },
+    {
+        "job_id": "84727670",
+        "job_title": "IT System Analyst",
+        "company": "PT Bali Hai Brewery Indonesia",
+        "listing_date": "2025-06-05T12:10:27Z"
+    },
+    {
+        "job_id": "84662470",
+        "job_title": "Java Developer",
+        "company": "PT. ALPEN FOOD INDUSTRY",
+        "listing_date": "2025-06-03T08:31:53Z"
+    },
+    {
+        "job_id": "84668054",
+        "job_title": "Senior Server & Storage Consultant",
+        "company": "PT IT Group Indonesia",
+        "listing_date": "2025-06-03T15:48:06Z"
+    },
+    {
+        "job_id": "84711370",
+        "job_title": "Product Specialist AI",
+        "company": "Private Advertiser",
+        "listing_date": "2025-06-05T02:53:30Z"
+    },
+    {
+        "job_id": "84663754",
+        "job_title": "Engineering Manager",
+        "company": "PT Sumber Data Indonesia",
+        "listing_date": "2025-06-03T09:24:33Z"
+    },
+    {
+        "job_id": "84659432",
+        "job_title": "Associate Project Manager",
+        "company": "PT. SYSTEMA GLOBAL SOLUSINDO",
+        "listing_date": "2025-06-03T06:49:58Z"
+    },
+    {
+        "job_id": "84691354",
+        "job_title": "Senior IT Sales Manager - IT Solution (B-119909)",
+        "company": "RGF HR Agent Indonesia",
+        "listing_date": "2025-06-04T07:25:43Z"
+    },
+    {
+        "job_id": "84695173",
+        "job_title": "ERP Technical Consultant - IT Consulting - Jakarta (B-118692)",
+        "company": "RGF HR Agent Indonesia",
+        "listing_date": "2025-06-04T09:47:27Z"
+    },
+    {
+        "job_id": "84682135",
+        "job_title": "Implementation Consultant",
+        "company": "Talent Search Recruitment Consultant",
+        "listing_date": "2025-06-04T03:33:39Z"
+    },
+    {
+        "job_id": "84690801",
+        "job_title": "Sr. SAP Consultant",
+        "company": "PT Bumi Amartha Teknologi Mandiri",
+        "listing_date": "2025-06-04T07:09:15Z"
+    },
+    {
+        "job_id": "84666715",
+        "job_title": "Senior Integration Engineer, Orchestration team",
+        "company": "PT Solusi Transportasi Indonesia",
+        "listing_date": "2025-06-03T08:42:18Z"
+    },
+    {
+        "job_id": "84666721",
+        "job_title": "Support Engineer L2",
+        "company": "PT Klik Digital Sinergi (Jakarta)",
+        "listing_date": "2025-06-03T03:29:19Z"
+    },
+    {
+        "job_id": "84710594",
+        "job_title": "IT Support / IT Operational Staff",
+        "company": "UOB KAY HIAN SEKURITAS",
+        "listing_date": "2025-06-05T02:32:39Z"
+    },
+    {
+        "job_id": "84768909",
+        "job_title": "Lead Solution Engineer, Voice Systems",
+        "company": "Technology Solutions",
+        "listing_date": "2025-06-08T07:40:13Z"
+    },
+    {
+        "job_id": "84662684",
+        "job_title": "Senior Software Developer",
+        "company": "Savant Degrees Pte Ltd",
+        "listing_date": "2025-06-03T08:42:39Z"
+    },
+    {
+        "job_id": "84692580",
+        "job_title": "Access Monitoring & IT Helpdesk - Bali",
+        "company": "PT Varnion Technology Semesta",
+        "listing_date": "2025-06-04T08:02:48Z"
+    },
+    {
+        "job_id": "84711001",
+        "job_title": "Full-Time Mobile Apps Developer (Entry Level)",
+        "company": "GSKI Rehobot Kelapa Gading",
+        "listing_date": "2025-06-05T02:44:03Z"
+    },
+    {
+        "job_id": "84724178",
+        "job_title": "IT Project Manager",
+        "company": "PT Inovasi Informatika Indonesia",
+        "listing_date": "2025-06-05T09:04:53Z"
+    },
+    {
+        "job_id": "84711916",
+        "job_title": "System Analist",
+        "company": "PT BERCA KAWAN SEJATI",
+        "listing_date": "2025-06-05T03:09:07Z"
+    },
+    {
+        "job_id": "84725209",
+        "job_title": "Ab Initio - L1 Engineer",
+        "company": "Proxima Consulting Indonesia",
+        "listing_date": "2025-06-05T09:36:50Z"
+    },
+    {
+        "job_id": "84710124",
+        "job_title": "ICT Cloud Engineer",
+        "company": "PT Ellipse Projects Indonesia",
+        "listing_date": "2025-06-05T02:20:13Z"
+    },
+    {
+        "job_id": "84732675",
+        "job_title": "Lead Systems Engineer (Mobile Device Management )",
+        "company": "Technology Solutions",
+        "listing_date": "2025-06-05T17:00:46Z"
+    },
+    {
+        "job_id": "84695540",
+        "job_title": "IT Operation Support",
+        "company": "Cikal",
+        "listing_date": "2025-06-04T07:44:03Z"
+    },
+    {
+        "job_id": "84677928",
+        "job_title": "System & Network Administrator",
+        "company": "PT Adhikari Inovasi Indonesia",
+        "listing_date": "2025-06-04T01:53:56Z"
+    },
+    {
+        "job_id": "84699477",
+        "job_title": "IT Supervisor",
+        "company": "Indofood Group",
+        "listing_date": "2025-06-04T11:38:54Z"
+    },
+    {
+        "job_id": "84712627",
+        "job_title": "Supervisor IT",
+        "company": "PT Masmedia Buana Pustaka",
+        "listing_date": "2025-06-04T02:59:49Z"
+    },
+    {
+        "job_id": "84682425",
+        "job_title": "IT Infrastructure Officer",
+        "company": "PT Inti Data Utama",
+        "listing_date": "2025-06-04T03:42:18Z"
+    },
+    {
+        "job_id": "84697674",
+        "job_title": "IT Application Support",
+        "company": "PT Mandiri International Technology",
+        "listing_date": "2025-06-04T04:58:57Z"
+    },
+    {
+        "job_id": "84653256",
+        "job_title": "System Administrator III",
+        "company": "PT. Elabram Systems",
+        "listing_date": "2025-06-03T03:57:46Z"
+    },
+    {
+        "job_id": "84651587",
+        "job_title": "Departement Head of IT",
+        "company": "PT Morula Indonesia",
+        "listing_date": "2025-06-03T03:26:52Z"
+    },
+    {
+        "job_id": "84716535",
+        "job_title": "IT Support Intern",
+        "company": "PT Bosnet Distribution Indonesia",
+        "listing_date": "2025-06-05T04:59:01Z"
+    },
+    {
+        "job_id": "84640522",
+        "job_title": "Software Engineer - Infrastructure",
+        "company": "Cermati Fintech Group",
+        "listing_date": "2025-06-02T11:18:23Z"
+    },
+    {
+        "job_id": "84653786",
+        "job_title": "Supervisor IT Sofware",
+        "company": "PT Masmedia Buana Pustaka",
+        "listing_date": "2025-06-03T04:09:40Z"
+    },
+    {
+        "job_id": "84650196",
+        "job_title": "IT Engineer",
+        "company": "PT YOFC International Indonesia",
+        "listing_date": "2025-06-03T02:53:00Z"
+    },
+    {
+        "job_id": "84724946",
+        "job_title": "Programmer",
+        "company": "Witech Inovasi Indonesia",
+        "listing_date": "2025-06-05T09:29:42Z"
+    },
+    {
+        "job_id": "84671487",
+        "job_title": "Head of IT Services",
+        "company": "PT Link Net",
+        "listing_date": "2025-06-03T02:38:13Z"
+    },
+    {
+        "job_id": "84658390",
+        "job_title": "System Engineer",
+        "company": "Dutakom Wibawa Putra Group",
+        "listing_date": "2025-06-01T17:00:00Z"
+    },
+    {
+        "job_id": "84752943",
+        "job_title": "Associate Business Consultant",
+        "company": "Tech Mahindra",
+        "listing_date": "2025-06-05T12:00:00Z"
+    },
+    {
+        "job_id": "84662191",
+        "job_title": "IT Manager",
+        "company": "SKK Jewels",
+        "listing_date": "2025-06-03T08:21:08Z"
+    },
+    {
+        "job_id": "84685142",
+        "job_title": "IT",
+        "company": "PT Dana Purna Investama",
+        "listing_date": "2025-06-04T04:39:04Z"
+    },
+    {
+        "job_id": "84668165",
+        "job_title": "IT SupportNew",
+        "company": "Oliver – SEAPAC",
+        "listing_date": "2025-06-03T12:25:32Z"
+    },
+    {
+        "job_id": "84743379",
+        "job_title": "IT Support",
+        "company": "Abishar Consulting Services",
+        "listing_date": "2025-06-05T04:48:48Z"
+    },
+    {
+        "job_id": "84723019",
+        "job_title": "IT Support & Software Developer",
+        "company": "Private Advertiser",
+        "listing_date": "2025-06-05T08:13:06Z"
+    },
+    {
+        "job_id": "84652776",
+        "job_title": "Program Administrator Engineer",
+        "company": "PT OSI ELECTRONICS",
+        "listing_date": "2025-06-03T03:50:58Z"
+    },
+    {
+        "job_id": "84731377",
+        "job_title": "IT Compliance",
+        "company": "Indofood Group",
+        "listing_date": "2025-06-05T11:45:03Z"
+    },
+    {
+        "job_id": "84716575",
+        "job_title": "IT Operation HelpDesk Specialist",
+        "company": "PT IIJ Global Solutions Indonesia",
+        "listing_date": "2025-06-05T05:00:43Z"
+    },
+    {
+        "job_id": "84725362",
+        "job_title": "Ab Initio - L2 Engineer",
+        "company": "Proxima Consulting Indonesia",
+        "listing_date": "2025-06-05T09:41:21Z"
+    },
+    {
+        "job_id": "84742849",
+        "job_title": "MANAGER IT",
+        "company": "PT. Indonesia Consultindo Global",
+        "listing_date": "2025-06-05T09:40:37Z"
+    },
+    {
+        "job_id": "84684205",
+        "job_title": "IT",
+        "company": "PT Indotel Maju Bersama",
+        "listing_date": "2025-06-04T04:14:26Z"
+    },
+    {
+        "job_id": "84691828",
+        "job_title": "IT Senior Staff",
+        "company": "Private Advertiser",
+        "listing_date": "2025-06-04T07:40:56Z"
+    },
+    {
+        "job_id": "84695994",
+        "job_title": "IT Support Managed Service",
+        "company": "PT. Nettocyber Indonesia",
+        "listing_date": "2025-06-04T10:21:09Z"
+    },
+    {
+        "job_id": "84649616",
+        "job_title": "IT Support",
+        "company": "PT Yuanta Sekuritas Indonesia",
+        "listing_date": "2025-06-03T02:36:20Z"
+    },
+    {
+        "job_id": "84694106",
+        "job_title": "Testing Management Program",
+        "company": "PT CIMB Niaga Tbk",
+        "listing_date": "2025-06-04T09:02:53Z"
+    },
+    {
+        "job_id": "84784657",
+        "job_title": "IT SAP Specialist (PM)",
+        "company": "FIBERSTAR (PT. Mega Akses Persada)",
+        "listing_date": "2025-06-09T08:44:21Z"
+    },
+    {
+        "job_id": "84782654",
+        "job_title": "Staff IT",
+        "company": "PT Global Inspeksi Sertifikasi",
+        "listing_date": "2025-06-09T07:18:46Z"
+    },
+    {
+        "job_id": "84692362",
+        "job_title": "Application Support (WFO Client)",
+        "company": "PT Profescipta Wahanatehnik",
+        "listing_date": "2025-06-04T07:53:43Z"
+    },
+    {
+        "job_id": "84650063",
+        "job_title": "IT Support Pangkalpinang",
+        "company": "WINGS Group",
+        "listing_date": "2025-06-03T02:49:32Z"
+    },
+    {
+        "job_id": "84684916",
+        "job_title": "IT Support Engineer (Batam, Indonesia Stationed)",
+        "company": "Simatelex Manufactory Co Ltd",
+        "listing_date": "2025-06-04T04:32:14Z"
+    },
+    {
+        "job_id": "84650065",
+        "job_title": "Database Administrator",
+        "company": "PT Asuransi Jiwa BCA",
+        "listing_date": "2025-06-03T02:49:30Z"
+    },
+    {
+        "job_id": "84785173",
+        "job_title": "Analyst Service Quality Management (Supervisor Level)",
+        "company": "PT. Mora Telematika Indonesia TBK",
+        "listing_date": "2025-06-09T08:59:23Z"
+    },
+    {
+        "job_id": "84635665",
+        "job_title": "JUNIOR PROJECT MANAGER",
+        "company": "PT Lawencon Internasional",
+        "listing_date": "2025-06-02T09:55:57Z"
+    },
+    {
+        "job_id": "84696133",
+        "job_title": "Unit Head IT Development (Life Insurance)",
+        "company": "PT Asuransi Jiwa BCA",
+        "listing_date": "2025-06-04T10:27:03Z"
+    },
+    {
+        "job_id": "84662694",
+        "job_title": "IT Business Analyst (SAP Extended Warehouse Management | WMS)",
+        "company": "PT Anugerah Pharmindo Lestari (APL)",
+        "listing_date": "2025-06-03T08:43:34Z"
+    },
+    {
+        "job_id": "84739002",
+        "job_title": "Cloud & AI Solution Engineer – Innovative AI Applications",
+        "company": "Microsoft",
+        "listing_date": "2025-06-06T01:58:07Z"
+    },
+    {
+        "job_id": "84690470",
+        "job_title": "Document Management System Section Head - Warehouse - Jakarta (B-119900)",
+        "company": "RGF HR Agent Indonesia",
+        "listing_date": "2025-06-04T07:01:12Z"
+    },
+    {
+        "job_id": "84738939",
+        "job_title": "Digital Solution Specialists - Security",
+        "company": "Microsoft",
+        "listing_date": "2025-06-06T01:55:50Z"
+    },
+    {
+        "job_id": "84753058",
+        "job_title": "Enterprise Sales Support Manager",
+        "company": "PT Aplikasi Karya Anak Bangsa (GO-JEK Indonesia)",
+        "listing_date": "2025-06-06T06:19:25Z"
+    },
+    {
+        "job_id": "84776267",
+        "job_title": "Data Analytics Intern",
+        "company": "PT Esensi Solusi Buana",
+        "listing_date": "2025-06-09T03:21:06Z"
+    },
+    {
+        "job_id": "84775465",
+        "job_title": "Business Analyst",
+        "company": "Bookandlink (PT Surya Jagat Mandiri)",
+        "listing_date": "2025-06-09T02:58:16Z"
+    },
+    {
+        "job_id": "84786529",
+        "job_title": "Client Success Specialist",
+        "company": "PT NTT Indonesia",
+        "listing_date": "2025-06-09T03:00:00Z"
+    },
+    {
+        "job_id": "84667908",
+        "job_title": "IT Helpdesk Engineer",
+        "company": "PT. Garena Indonesia",
+        "listing_date": "2025-06-03T11:58:59Z"
+    },
+    {
+        "job_id": "84724262",
+        "job_title": "Database Administrator",
+        "company": "PT Inovasi Informatika Indonesia",
+        "listing_date": "2025-06-05T09:07:54Z"
+    },
+    {
+        "job_id": "84712679",
+        "job_title": "IT Development",
+        "company": "PT Clavisindo Berjaya",
+        "listing_date": "2025-06-05T03:26:54Z"
+    },
+    {
+        "job_id": "84729406",
+        "job_title": "Data Engineer",
+        "company": "PT Bayer Indonesia",
+        "listing_date": "2025-06-05T13:40:44Z"
+    },
+    {
+        "job_id": "84683505",
+        "job_title": "Project Manager",
+        "company": "PT Ivonesia Solusi Data",
+        "listing_date": "2025-06-04T03:58:16Z"
+    },
+    {
+        "job_id": "84666549",
+        "job_title": "IT Sevice Desk Analyst",
+        "company": "PT GTech Digital Asia",
+        "listing_date": "2025-06-03T03:19:52Z"
+    },
+    {
+        "job_id": "84666427",
+        "job_title": "IT Project Manager",
+        "company": "PGI Data",
+        "listing_date": "2025-06-03T03:31:28Z"
+    },
+    {
+        "job_id": "84699439",
+        "job_title": "Budget Staff",
+        "company": "Indofood Group",
+        "listing_date": "2025-06-04T11:38:51Z"
+    },
+    {
+        "job_id": "84671820",
+        "job_title": "Database Analyst",
+        "company": "PT Tiga Daya Digital Indonesia",
+        "listing_date": "2025-06-03T10:29:52Z"
+    },
+    {
+        "job_id": "84617862",
+        "job_title": "IT Technical Support",
+        "company": "PT Anomali Lintas Cakrawala",
+        "listing_date": "2025-06-01T23:10:46Z"
+    },
+    {
+        "job_id": "84620741",
+        "job_title": "IT ENGINEER STAFF",
+        "company": "PT EVERPRO INDONESIA TECHNOLOGIES",
+        "listing_date": "2025-06-02T01:40:41Z"
+    },
+    {
+        "job_id": "84635853",
+        "job_title": "Devops Engineer",
+        "company": "PT IFS Solusi Integrasi",
+        "listing_date": "2025-06-02T10:05:38Z"
+    },
+    {
+        "job_id": "84654570",
+        "job_title": "Junior IT Staff",
+        "company": "Real Magick",
+        "listing_date": "2025-06-03T04:30:53Z"
+    },
+    {
+        "job_id": "84663299",
+        "job_title": "IT Helpdesk",
+        "company": "PT Liberty Jaya",
+        "listing_date": "2025-06-03T09:07:52Z"
+    },
+    {
+        "job_id": "84641883",
+        "job_title": "Staf IT Architecture Analyst",
+        "company": "PT Bank Resona Perdania",
+        "listing_date": "2025-06-02T16:17:00Z"
+    },
+    {
+        "job_id": "84762976",
+        "job_title": "Data Analyst & AI Automation Wizard",
+        "company": "Investland Bali Properties",
+        "listing_date": "2025-06-07T09:19:58Z"
+    },
+    {
+        "job_id": "84716557",
+        "job_title": "SAP ABAP Consultant",
+        "company": "PT Solman Tekno Asia",
+        "listing_date": "2025-06-05T05:00:22Z"
+    },
+    {
+        "job_id": "84781060",
+        "job_title": "System Developer",
+        "company": "Busana Apparel Group",
+        "listing_date": "2025-06-09T06:25:58Z"
+    },
+    {
+        "job_id": "84688588",
+        "job_title": "IT Programmer",
+        "company": "PT Asih Eka Abadi",
+        "listing_date": "2025-06-04T06:23:15Z"
+    },
+    {
+        "job_id": "84723298",
+        "job_title": "ERP Project Lead",
+        "company": "PT Global Ofisa Indonesia",
+        "listing_date": "2025-06-05T08:28:18Z"
+    },
+    {
+        "job_id": "84634624",
+        "job_title": "Data Analyst",
+        "company": "Passion Jewelry",
+        "listing_date": "2025-06-02T09:18:48Z"
+    },
+    {
+        "job_id": "84698325",
+        "job_title": "Pre-Sales Manager",
+        "company": "PT Humana International Indonesia",
+        "listing_date": "2025-06-04T14:27:19Z"
+    },
+    {
+        "job_id": "84726250",
+        "job_title": "Business Analyst (Banking Industry)",
+        "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+        "listing_date": "2025-06-05T10:11:59Z"
+    },
+    {
+        "job_id": "84665717",
+        "job_title": "Programmer Staff Mid-Senior",
+        "company": "PT Bahana Inovasi Adikarya",
+        "listing_date": "2025-06-03T11:02:17Z"
+    },
+    {
+        "job_id": "84714447",
+        "job_title": "Automation Programmer",
+        "company": "PT Mindo Small Business Solutions",
+        "listing_date": "2025-06-05T04:02:21Z"
+    },
+    {
+        "job_id": "84675527",
+        "job_title": "Software Engineer, Mobile (iOS) - Payment Experience",
+        "company": "PT Solusi Transportasi Indonesia",
+        "listing_date": "2025-06-03T21:12:13Z"
+    },
+    {
+        "job_id": "84776954",
+        "job_title": "SAP Consultant Material Management",
+        "company": "PT Mitra Solusi Telematika",
+        "listing_date": "2025-06-09T03:40:22Z"
+    },
+    {
+        "job_id": "84782501",
+        "job_title": "IT Programming Intern",
+        "company": "PT. Asuransi Umum BCA",
+        "listing_date": "2025-06-09T07:14:03Z"
+    },
+    {
+        "job_id": "84786793",
+        "job_title": "Senior Account Solution Engineer (Indonesia)",
+        "company": "MuleSoft",
+        "listing_date": "2025-06-09T02:30:00Z"
+    },
+    {
+        "job_id": "84769407",
+        "job_title": "Relocate to Malta .NET Full Stack Developer",
+        "company": "Black Pen Recruitment",
+        "listing_date": "2025-06-08T13:15:30Z"
+    },
+    {
+        "job_id": "84704031",
+        "job_title": "Oracle Developer",
+        "company": "Gefami Services Indonesia",
+        "listing_date": "2025-06-04T06:18:12Z"
+    },
+    {
+        "job_id": "84652939",
+        "job_title": "Functional Consultant (Finance / Supply Chain Industry)",
+        "company": "PT. Elabram Systems",
+        "listing_date": "2025-06-03T03:54:37Z"
+    },
+    {
+        "job_id": "84719573",
+        "job_title": "Indonesia Benefit Manager",
+        "company": "PT. Amalura Multi Dimensi",
+        "listing_date": "2025-06-05T06:35:17Z"
+    },
+    {
+        "job_id": "84623628",
+        "job_title": "Javaspring Developer",
+        "company": "PT. Entrepreneur Trust Digital",
+        "listing_date": "2025-06-02T03:30:30Z"
+    },
+    {
+        "job_id": "84671530",
+        "job_title": "Code Analyst (.Net)",
+        "company": "PT Tiga Daya Digital Indonesia",
+        "listing_date": "2025-06-03T10:35:51Z"
+    },
+    {
+        "job_id": "84732540",
+        "job_title": "Software Engineer in Data",
+        "company": "Cermati Fintech Group",
+        "listing_date": "2025-06-05T14:26:15Z"
+    },
+    {
+        "job_id": "84640632",
+        "job_title": "Intern - Risk Assurance - Capital Markets and Accounting Advisory Service",
+        "company": "KAP Rintis, Jumadi, Rianto & Rekan",
+        "listing_date": "2025-06-02T06:30:00Z"
+    },
+    {
+        "job_id": "84710798",
+        "job_title": "System Analyst",
+        "company": "PT Clavisindo Berjaya",
+        "listing_date": "2025-06-05T02:38:19Z"
+    },
+    {
+        "job_id": "84690596",
+        "job_title": "Project Manager - Banking Industry",
+        "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+        "listing_date": "2025-06-03T09:33:00Z"
+    },
+    {
+        "job_id": "84984090",
+        "job_title": "Quality Control",
+        "company": "PT. Putra Perkasa",
+        "listing_date": "2025-06-17T10:23:23Z"
+    },
+    {
+        "job_id": "84971129",
+        "job_title": "Fresh Graduate System Analyst",
+        "company": "PT Amber Solusi Internasional",
+        "listing_date": "2025-06-17T04:27:01Z"
+    },
+    {
+        "job_id": "85000612",
+        "job_title": "IT Security & Compliance Staff",
+        "company": "PT Amerta Indah Otsuka",
+        "listing_date": "2025-06-18T04:13:09Z"
+    },
+    {
+        "job_id": "84888065",
+        "job_title": "Specialist Application Development",
+        "company": "PT Cipta Krida Bahari",
+        "listing_date": "2025-06-13T01:21:44Z"
+    },
+    {
+        "job_id": "84887433",
+        "job_title": "Data Center & System Management Specialist",
+        "company": "PT SGMW Motor Indonesia",
+        "listing_date": "2025-06-13T01:07:30Z"
+    },
+    {
+        "job_id": "84865703",
+        "job_title": "Front End Developer Intern",
+        "company": "PT Indolok Bakti Utama",
+        "listing_date": "2025-06-12T04:17:22Z"
+    },
+    {
+        "job_id": "84881355",
+        "job_title": "IT Support Staff",
+        "company": "PT Anugerah Digital Indonesia",
+        "listing_date": "2025-06-12T16:48:06Z"
+    },
+    {
+        "job_id": "85011150",
+        "job_title": "IT Manager - Cikarang - Manufacture - WFO",
+        "company": "PT. PERSOLKELLY Recruitment Indonesia",
+        "listing_date": "2025-06-18T08:54:25Z"
+    },
+    {
+        "job_id": "84938666",
+        "job_title": "IT DEVELOPER",
+        "company": "PT Sentul City Tbk. (HR Division)",
+        "listing_date": "2025-06-16T03:29:28Z"
+    },
+    {
+        "job_id": "84895675",
+        "job_title": "Global Support Services Engineer",
+        "company": "TRT Shared Services, OPC",
+        "listing_date": "2025-06-13T04:30:06Z"
+    },
+    {
+        "job_id": "84949102",
+        "job_title": "Database Administrator",
+        "company": "Epsoft International Pte. Ltd.",
+        "listing_date": "2025-06-16T10:12:20Z"
+    },
+    {
+        "job_id": "84895414",
+        "job_title": "IT Field Support Engineer",
+        "company": "TRT Shared Services, OPC",
+        "listing_date": "2025-06-13T04:22:44Z"
+    },
+    {
+        "job_id": "84936368",
+        "job_title": "Application Support (L1 Support Agent)",
+        "company": "PT Karya Solusi Prima Sejahtera",
+        "listing_date": "2025-06-17T10:21:23Z"
+    },
+    {
+        "job_id": "84902878",
+        "job_title": "IT Personnel",
+        "company": "Januar Jahja and Partners",
+        "listing_date": "2025-06-13T07:17:33Z"
+    },
+    {
+        "job_id": "85013215",
+        "job_title": "Cyber Security Support",
+        "company": "Private Advertiser",
+        "listing_date": "2025-06-18T09:49:53Z"
+    },
+    {
+        "job_id": "84901505",
+        "job_title": "L1 Data Center Operation",
+        "company": "PT IDStar Cipta Teknologi",
+        "listing_date": "2025-06-13T06:50:05Z"
+    },
+    {
+        "job_id": "84983741",
+        "job_title": "ERP Business Process (preferably Odoo Functional)",
+        "company": "PT Garda Distribusi Teknologi",
+        "listing_date": "2025-06-18T01:29:44Z"
+    },
+    {
+        "job_id": "85013459",
+        "job_title": "IT Business Analyst",
+        "company": "PT Accelist Lentera Indonesia",
+        "listing_date": "2025-06-18T10:00:54Z"
+    },
+    {
+        "job_id": "84945598",
+        "job_title": "Technical Support (IT / Software)",
+        "company": "PT Northern Lights Production",
+        "listing_date": "2025-06-16T08:14:11Z"
+    },
+    {
+        "job_id": "84999548",
+        "job_title": "Mandarin Speaker - SOC- (Saferty Engineer) Datacenter",
+        "company": "PT EZSVS Technology Indonesia",
+        "listing_date": "2025-06-18T03:45:16Z"
+    },
+    {
+        "job_id": "84871797",
+        "job_title": "AI IMPLEMENTATION SPECIALIST (ARTIFICIAL INTELLIGENCE)",
+        "company": "PT Trimitra Putra Mandiri",
+        "listing_date": "2025-06-12T06:29:44Z"
+    },
+    {
+        "job_id": "84889768",
+        "job_title": "System Analyst",
+        "company": "Kop. Nusantara",
+        "listing_date": "2025-06-13T02:09:43Z"
+    },
+    {
+        "job_id": "84907367",
+        "job_title": "Mobile App Developer",
+        "company": "PT Transcosmos Indonesia",
+        "listing_date": "2025-06-13T09:34:54Z"
+    },
+    {
+        "job_id": "84896889",
+        "job_title": "Network Security Engineer (L3)",
+        "company": "PT ABISHAR TECHNOLOGIES INDONESIA",
+        "listing_date": "2025-06-13T05:04:21Z"
+    },
+    {
+        "job_id": "84905185",
+        "job_title": "Technical Support",
+        "company": "PT. Uniview Technologies Indonesia",
+        "listing_date": "2025-06-13T08:31:31Z"
+    },
+    {
+        "job_id": "85007752",
+        "job_title": "IT SAP ABAP",
+        "company": "PT BERLIAN DUTA ENERGI",
+        "listing_date": "2025-06-18T07:10:48Z"
+    },
+    {
+        "job_id": "84984371",
+        "job_title": "IT Monitoring Digisign",
+        "company": "PT Rajawali Berdikari Indonesia",
+        "listing_date": "2025-06-17T10:43:35Z"
+    },
+    {
+        "job_id": "84947332",
+        "job_title": "ERP Sr. Functional (Dynamics 365, Dynamics AX, D365FO)",
+        "company": "PT. MITRA CAKRAWALA INTERNATIONAL",
+        "listing_date": "2025-06-16T07:23:26Z"
+    },
+    {
+        "job_id": "84950067",
+        "job_title": "IT Staff",
+        "company": "Nobel Carpets",
+        "listing_date": "2025-06-16T08:49:02Z"
+    },
+    {
+        "job_id": "84987333",
+        "job_title": "Data Monitoring & Automation",
+        "company": "TurnkeyID",
+        "listing_date": "2025-06-17T15:12:23Z"
+    },
+    {
+        "job_id": "84966185",
+        "job_title": "IT Infrastruktur & Support",
+        "company": "PT ADR Agro",
+        "listing_date": "2025-06-17T02:22:44Z"
+    },
+    {
+        "job_id": "84903847",
+        "job_title": "Junior Tech Support",
+        "company": "PT Arupa Cloud Nusantara",
+        "listing_date": "2025-06-13T07:41:02Z"
+    },
+    {
+        "job_id": "84977317",
+        "job_title": "IT SUPPORT",
+        "company": "PT Ceria Jusindo Nusantara",
+        "listing_date": "2025-06-17T06:41:09Z"
+    },
+    {
+        "job_id": "84917039",
+        "job_title": "IT Head",
+        "company": "PT TRANS NUSA AVIATION MANDIRI",
+        "listing_date": "2025-06-14T03:22:36Z"
+    },
+    {
+        "job_id": "84857783",
+        "job_title": "IT Support",
+        "company": "PT Kansai Prakarsa Coatings",
+        "listing_date": "2025-06-12T01:10:33Z"
+    },
+    {
+        "job_id": "84938789",
+        "job_title": "IT Field Officer",
+        "company": "PT Merdeka Tsingshan Indonesia",
+        "listing_date": "2025-06-16T03:33:51Z"
+    },
+    {
+        "job_id": "84946124",
+        "job_title": "IT System Engineer",
+        "company": "FIBERSTAR (PT. Mega Akses Persada)",
+        "listing_date": "2025-06-16T06:49:03Z"
+    },
+    {
+        "job_id": "85014318",
+        "job_title": "Enterprise System Engineer",
+        "company": "PT. BFI FINANCE INDONESIA, Tbk",
+        "listing_date": "2025-06-18T10:24:21Z"
+    },
+    {
+        "job_id": "84861935",
+        "job_title": "HC Information System Staff",
+        "company": "PT Mandiri Tunas Finance",
+        "listing_date": "2025-06-12T02:52:28Z"
+    },
+    {
+        "job_id": "84939331",
+        "job_title": "IT ERP (SAP) Functional Staff",
+        "company": "PT Bayan Resources",
+        "listing_date": "2025-06-16T03:44:45Z"
+    },
+    {
+        "job_id": "84878216",
+        "job_title": "IT OSS (Otsuka Shared Service) Senior Staff",
+        "company": "PT Amerta Indah Otsuka",
+        "listing_date": "2025-06-13T06:53:47Z"
+    },
+    {
+        "job_id": "84867591",
+        "job_title": "IT Network Engineer",
+        "company": "PT Hyundai Autoever Indonesia",
+        "listing_date": "2025-06-12T04:54:57Z"
+    },
+    {
+        "job_id": "84859016",
+        "job_title": "SUPERVISOR IT",
+        "company": "PT Teguh Murni Perdana",
+        "listing_date": "2025-06-12T01:33:00Z"
+    },
+    {
+        "job_id": "84891884",
+        "job_title": "IT Department Head (Site Based)",
+        "company": "Private Advertiser",
+        "listing_date": "2025-06-13T03:07:17Z"
+    },
+    {
+        "job_id": "84860659",
+        "job_title": "IT SUPERVISOR  - CIKARANG",
+        "company": "PT Adecco Personnel Indonesia",
+        "listing_date": "2025-06-12T02:10:29Z"
+    },
+    {
+        "job_id": "84965905",
+        "job_title": "System Analyst Senior",
+        "company": "PT. Metrodata Electronics, Tbk",
+        "listing_date": "2025-06-17T02:17:09Z"
+    },
+    {
+        "job_id": "84864677",
+        "job_title": "IT Business Analyst",
+        "company": "PT Ikonsultan Inovatama",
+        "listing_date": "2025-06-12T03:57:37Z"
+    },
+    {
+        "job_id": "84861553",
+        "job_title": "System Analys",
+        "company": "Private Advertiser",
+        "listing_date": "2025-06-12T02:40:14Z"
+    },
+    {
+        "job_id": "84875448",
+        "job_title": "System Engineer (IT)",
+        "company": "PT Exabytes Network Indonesia",
+        "listing_date": "2025-06-12T08:38:13Z"
+    },
+    {
+        "job_id": "84866137",
+        "job_title": "IT Pre-Sales Manager - Financial Industries - Jakarta (B-120194)",
+        "company": "RGF HR Agent Indonesia",
+        "listing_date": "2025-06-12T04:29:44Z"
+    },
+    {
+        "job_id": "84908939",
+        "job_title": "Technical Consultant for AIDC, Networking & Handy Talky Product - Surabaya Area",
+        "company": "PT Harrisma Informatika Jaya",
+        "listing_date": "2025-06-14T01:29:47Z"
+    },
+    {
+        "job_id": "84859055",
+        "job_title": "System Analyst",
+        "company": "Ika Raya Sentausa",
+        "listing_date": "2025-06-12T01:33:44Z"
+    },
+    {
+        "job_id": "84874583",
+        "job_title": "Solutions Architect",
+        "company": "PT Exabytes Network Indonesia",
+        "listing_date": "2025-06-12T08:00:53Z"
+    },
+    {
+        "job_id": "85023285",
+        "job_title": "Data Center Officer",
+        "company": "PT. Elabram Systems",
+        "listing_date": "2025-06-19T01:31:04Z"
+    },
+    {
+        "job_id": "85010733",
+        "job_title": "IT Network & Security Staff",
+        "company": "Private Advertiser",
+        "listing_date": "2025-06-18T08:38:47Z"
+    },
+    {
+        "job_id": "85014945",
+        "job_title": "IT ISC (Industrial, Security & Compliance)",
+        "company": "PT Amerta Indah Otsuka",
+        "listing_date": "2025-06-18T12:00:00Z"
+    },
+    {
+        "job_id": "84989155",
+        "job_title": "Technical Consultant Analyst",
+        "company": "Mitra Integrasi Informatika",
+        "listing_date": "2025-06-17T12:00:00Z"
+    },
+    {
+        "job_id": "84904932",
+        "job_title": "IT Business Analyst",
+        "company": "Private Advertiser",
+        "listing_date": "2025-06-13T08:19:28Z"
+    },
+    {
+        "job_id": "84969581",
+        "job_title": "IT Application Support (D365)",
+        "company": "IDS Medical Systems Group",
+        "listing_date": "2025-06-16T12:00:00Z"
+    },
+    {
+        "job_id": "84941841",
+        "job_title": "Junior Data Engineer",
+        "company": "PT Kamoro Maxima Integra",
+        "listing_date": "2025-06-16T04:46:07Z"
+    },
+    {
+        "job_id": "84982044",
+        "job_title": "IT Support – Data Management & Data Security",
+        "company": "Private Advertiser",
+        "listing_date": "2025-06-17T08:58:28Z"
+    },
+    {
+        "job_id": "84984830",
+        "job_title": "IT System Analyst",
+        "company": "Code.id",
+        "listing_date": "2025-06-17T09:05:32Z"
+    },
+    {
+        "job_id": "84979444",
+        "job_title": "IT Solution Architect",
+        "company": "Inter Sistem Asia, PT.",
+        "listing_date": "2025-06-17T07:22:23Z"
+    },
+    {
+        "job_id": "84991313",
+        "job_title": "CMS-Senior-Ping ID-SSO-Fed-DS",
+        "company": "EY",
+        "listing_date": "2025-06-17T12:00:00Z"
+    },
+    {
+        "job_id": "85014321",
+        "job_title": "IT Project Management Officer",
+        "company": "PT Mandiri International Technology",
+        "listing_date": "2025-06-18T07:29:39Z"
+    },
+    {
+        "job_id": "84988382",
+        "job_title": "Java Engineer - Operation & Maintenance Business Analyst",
+        "company": "PT. Hand Solutions Indonesia",
+        "listing_date": "2025-06-17T17:14:20Z"
+    },
+    {
+        "job_id": "84986555",
+        "job_title": "Chief Technology Officer",
+        "company": "PT IBM Indonesia",
+        "listing_date": "2025-06-17T06:19:50Z"
+    },
+    {
+        "job_id": "84958052",
+        "job_title": "IT Support",
+        "company": "Trusmi Group",
+        "listing_date": "2025-06-16T07:08:47Z"
+    },
+    {
+        "job_id": "84946938",
+        "job_title": "Data Migration Lead",
+        "company": "PT. Amalura Multi Dimensi",
+        "listing_date": "2025-06-16T07:11:19Z"
+    },
+    {
+        "job_id": "84884108",
+        "job_title": "IT Manager",
+        "company": "PT Accor Advantageplus",
+        "listing_date": "2025-06-12T22:33:16Z"
+    },
+    {
+        "job_id": "84922681",
+        "job_title": "Presales Manager",
+        "company": "PT Mid Solusi Nusantara (MEKARI)",
+        "listing_date": "2025-06-14T12:00:00Z"
+    },
+    {
+        "job_id": "84956152",
+        "job_title": "Senior Associate Enterprise Applications Consultant - Banking",
+        "company": "PT NTT Indonesia",
+        "listing_date": "2025-06-16T06:30:00Z"
+    },
+    {
+        "job_id": "84991152",
+        "job_title": "IT Sales",
+        "company": "PT Kreatifitas Sinergisme Teknoindo (KST)",
+        "listing_date": "2025-06-15T17:00:00Z"
+    },
+    {
+        "job_id": "84912475",
+        "job_title": "Supervisor Information Technology and Development",
+        "company": "Sinarmas Mining",
+        "listing_date": "2025-06-13T16:34:15Z"
+    },
+    {
+        "job_id": "84908796",
+        "job_title": "IT INFRA NETWORK",
+        "company": "PT Zinus Global Indonesia",
+        "listing_date": "2025-06-13T10:16:06Z"
+    },
+    {
+        "job_id": "84905575",
+        "job_title": "IT Support (Network)",
+        "company": "PT LINKSFIELD NETWORKS INDONESIA",
+        "listing_date": "2025-06-13T08:42:38Z"
+    },
+    {
+        "job_id": "84895400",
+        "job_title": "Assistant Manager SAP Applications",
+        "company": "PT DKSH Indonesia",
+        "listing_date": "2025-06-13T04:17:00Z"
+    },
+    {
+        "job_id": "84921889",
+        "job_title": "IT Security & Dev Ops Specialist",
+        "company": "PT Abadi Sejahtera Finansindo (Head Office)",
+        "listing_date": "2025-06-14T10:32:01Z"
+    },
+    {
+        "job_id": "84871632",
+        "job_title": "IT Architecture & Technology Specialist",
+        "company": "Yayasan Bina Nusantara",
+        "listing_date": "2025-06-12T06:24:52Z"
+    },
+    {
+        "job_id": "84903099",
+        "job_title": "System Operation Engineer",
+        "company": "PT Solusindo Bintang Pratama",
+        "listing_date": "2025-06-12T08:07:17Z"
+    },
+    {
+        "job_id": "84868068",
+        "job_title": "Head of Software Solutions",
+        "company": "Yayasan Bina Nusantara",
+        "listing_date": "2025-06-12T05:04:33Z"
+    },
+    {
+        "job_id": "84864405",
+        "job_title": "IT Support",
+        "company": "PT Putragaya Wahana",
+        "listing_date": "2025-06-12T03:54:04Z"
+    },
+    {
+        "job_id": "84861396",
+        "job_title": "IT",
+        "company": "PT. Tahop Antar Buana",
+        "listing_date": "2025-06-12T02:59:07Z"
+    },
+    {
+        "job_id": "84894660",
+        "job_title": "System Analyst",
+        "company": "PT Bagus Harapan Tritunggal",
+        "listing_date": "2025-06-13T04:03:54Z"
+    },
+    {
+        "job_id": "84854629",
+        "job_title": "IT Governance (IT Consulting)",
+        "company": "IT Governance (IT Consulting)",
+        "listing_date": "2025-06-11T17:07:32Z"
+    },
+    {
+        "job_id": "84907708",
+        "job_title": "Database administrator",
+        "company": "PT Artha Infotama (Jakarta)",
+        "listing_date": "2025-06-13T09:41:41Z"
+    },
+    {
+        "job_id": "84938781",
+        "job_title": "Big Data Engineer",
+        "company": "PT Data Labs Analytics",
+        "listing_date": "2025-06-16T03:31:32Z"
+    },
+    {
+        "job_id": "84867586",
+        "job_title": "System Analyst",
+        "company": "Yayasan Bina Nusantara",
+        "listing_date": "2025-06-12T04:54:47Z"
+    },
+    {
+        "job_id": "85017648",
+        "job_title": "Junior IT Project Support/PMO - Banking Industry",
+        "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+        "listing_date": "2025-06-18T10:43:40Z"
+    },
+    {
+        "job_id": "84894861",
+        "job_title": "Backend Programmer",
+        "company": "PT Bagus Harapan Tritunggal",
+        "listing_date": "2025-06-13T04:06:25Z"
+    },
+    {
+        "job_id": "84981515",
+        "job_title": "Data Center Operations Technician (Jakarta, 24/7 shift)",
+        "company": "Rahi Systems Pte. Ltd.",
+        "listing_date": "2025-06-17T08:37:42Z"
+    },
+    {
+        "job_id": "85009437",
+        "job_title": "CX Project Assistant",
+        "company": "PT Transcosmos Indonesia",
+        "listing_date": "2025-06-18T08:05:45Z"
+    },
+    {
+        "job_id": "84984545",
+        "job_title": "MIS & Data Management Junior Staff (Contractual Basis)",
+        "company": "Lembaga Pembiayaan Ekspor Indonesia (Indonesia Eximbank)",
+        "listing_date": "2025-06-17T10:53:16Z"
+    },
+    {
+        "job_id": "84966434",
+        "job_title": "Network Operations Coordinator",
+        "company": "Daewoong Bio Indonesia",
+        "listing_date": "2025-06-17T02:28:48Z"
+    },
+    {
+        "job_id": "84949304",
+        "job_title": "IT Asset Management",
+        "company": "PT Bumi Amartha Teknologi Mandiri",
+        "listing_date": "2025-06-16T08:23:41Z"
+    },
+    {
+        "job_id": "84888756",
+        "job_title": "Technical Support",
+        "company": "PT Netmarks Indonesia",
+        "listing_date": "2025-06-13T01:43:04Z"
+    },
+    {
+        "job_id": "84954499",
+        "job_title": "Data, Information, and Operations Analyst (Night Shift)",
+        "company": "Haven Foods",
+        "listing_date": "2025-06-16T11:25:17Z"
+    },
+    {
+        "job_id": "84934069",
+        "job_title": "Data Analisyt (Postgresql)",
+        "company": "PT Anomali Lintas Cakrawala",
+        "listing_date": "2025-06-16T01:34:09Z"
+    },
+    {
+        "job_id": "84973871",
+        "job_title": "Associate Project Manager",
+        "company": "PT Wesurance InsurTech Solution",
+        "listing_date": "2025-06-17T05:53:59Z"
+    },
+    {
+        "job_id": "84987647",
+        "job_title": "Manager IT",
+        "company": "PT. Primarajuli Sukses",
+        "listing_date": "2025-06-17T15:44:01Z"
+    },
+    {
+        "job_id": "84973752",
+        "job_title": "Requirement Analyst - IoT",
+        "company": "PT Trust Recruit Indonesia",
+        "listing_date": "2025-06-17T05:49:07Z"
+    },
+    {
+        "job_id": "84982855",
+        "job_title": "Sr. Devops Engineer",
+        "company": "PT Tekno Gemilang Indonesia",
+        "listing_date": "2025-06-17T09:32:02Z"
+    },
+    {
+        "job_id": "84885801",
+        "job_title": "PM ENTERPRISE PROVIDER",
+        "company": "PT Vads Indonesia",
+        "listing_date": "2025-06-13T02:07:34Z"
+    },
+    {
+        "job_id": "84907001",
+        "job_title": "PM Enterprise Project XLSMART",
+        "company": "PT Multi Bangun Abadi",
+        "listing_date": "2025-06-13T09:28:18Z"
+    },
+    {
+        "job_id": "84945846",
+        "job_title": "Technical Leader Silverlake Core Banking",
+        "company": "PT Lawencon Internasional",
+        "listing_date": "2025-06-16T06:43:07Z"
+    },
+    {
+        "job_id": "84919367",
+        "job_title": "PROGRAMER CONSULTANT NETSUITE",
+        "company": "PT. PERO UNIVERSAL INDONESIA",
+        "listing_date": "2025-06-14T07:48:31Z"
+    },
+    {
+        "job_id": "84946070",
+        "job_title": "Technical Expertise Silverlake Core Banking",
+        "company": "PT Lawencon Internasional",
+        "listing_date": "2025-06-16T06:47:49Z"
+    },
+    {
+        "job_id": "84949513",
+        "job_title": "Business Developer (Odoo)",
+        "company": "PT Maximus Indo Asia",
+        "listing_date": "2025-06-16T08:31:29Z"
+    },
+    {
+        "job_id": "84871527",
+        "job_title": "Cybersecurity Manager",
+        "company": "PT OSI ELECTRONICS",
+        "listing_date": "2025-06-12T06:22:14Z"
+    },
+    {
+        "job_id": "85027777",
+        "job_title": "d-Level PLM Operations Consultant",
+        "company": "PT. HAND Solutions Indonesia",
+        "listing_date": "2025-06-19T03:33:43Z"
+    },
+    {
+        "job_id": "85021084",
+        "job_title": "MySQL Customer Success Manager, ASEAN",
+        "company": "Oracle",
+        "listing_date": "2025-06-19T00:00:21Z"
+    },
+    {
+        "job_id": "85022165",
+        "job_title": "IT Application Implementation",
+        "company": "PT. CJ Logistics Indonesia",
+        "listing_date": "2025-06-19T00:53:44Z"
+    },
+    {
+        "job_id": "85024931",
+        "job_title": "IT Business Analyst",
+        "company": "PT. Ace Global Consulting and Integration",
+        "listing_date": "2025-06-19T02:19:47Z"
+    },
+    {
+        "job_id": "85017063",
+        "job_title": "Specialist, Engineering Services",
+        "company": "PT Jones Lang LaSalle",
+        "listing_date": "2025-06-18T08:30:00Z"
+    },
+    {
+        "job_id": "85020399",
+        "job_title": "Oracle Funtional Analyst",
+        "company": "VLink Inc",
+        "listing_date": "2025-06-18T11:26:02Z"
+    },
+    {
+        "job_id": "85013339",
+        "job_title": "IT Project Manager",
+        "company": "PT Accelist Lentera Indonesia",
+        "listing_date": "2025-06-18T09:55:29Z"
+    },
+    {
+        "job_id": "85009320",
+        "job_title": "CX Portfolio Management Manager",
+        "company": "PT Eka Mas Republik",
+        "listing_date": "2025-06-18T07:57:53Z"
+    },
+    {
+        "job_id": "84983772",
+        "job_title": "Assistant CD IT Innovation & Development Manager",
+        "company": "Unilever",
+        "listing_date": "2025-06-16T12:00:00Z"
+    },
+    {
+        "job_id": "84987238",
+        "job_title": "Associate QA Automation Engineer",
+        "company": "PT NTT Indonesia",
+        "listing_date": "2025-06-17T07:00:00Z"
+    },
+    {
+        "job_id": "84984897",
+        "job_title": "Trainee",
+        "company": "Nokia",
+        "listing_date": "2025-06-17T09:47:58Z"
+    },
+    {
+        "job_id": "84978663",
+        "job_title": "Data Analyst",
+        "company": "PT Jutarasa Abadi",
+        "listing_date": "2025-06-17T06:59:03Z"
+    },
+    {
+        "job_id": "84953468",
+        "job_title": "Technical Consultant (Mandarin Speaker)",
+        "company": "CTI Group",
+        "listing_date": "2025-06-16T10:14:28Z"
+    },
+    {
+        "job_id": "84871517",
+        "job_title": "Data Analyst",
+        "company": "Yayasan Bina Nusantara",
+        "listing_date": "2025-06-12T06:21:32Z"
+    },
+    {
+        "job_id": "84937236",
+        "job_title": "IT Manager",
+        "company": "PT Oneject Indonesia",
+        "listing_date": "2025-06-16T02:54:40Z"
+    },
+    {
+        "job_id": "84916449",
+        "job_title": "IT Project Manager (ERP Implementation)",
+        "company": "PT Nityo Infotech",
+        "listing_date": "2025-06-14T02:06:45Z"
+    },
+    {
+        "job_id": "84919365",
+        "job_title": "Kepala Programer dan  IT Support",
+        "company": "PT Farika Riau Perkasa",
+        "listing_date": "2025-06-14T07:55:58Z"
+    },
+    {
+        "job_id": "84894657",
+        "job_title": "PM ENTERPRISE PROVIDER",
+        "company": "PT Vads Indonesia",
+        "listing_date": "2025-06-13T04:02:05Z"
+    },
+    {
+        "job_id": "84664778",
+        "job_title": "Data Analyst",
+        "company": "PT Dinus Cipta Mandiri",
+        "listing_date": "2025-06-12T07:54:45Z"
+    },
+    {
+        "job_id": "84875849",
+        "job_title": "Scrum Master",
+        "company": "PT Media Indonusa (Jakarta)",
+        "listing_date": "2025-06-12T08:56:01Z"
+    },
+    {
+        "job_id": "84936593",
+        "job_title": "Software Engineer",
+        "company": "PT Formulatrix Indonesia",
+        "listing_date": "2025-06-16T02:38:27Z"
+    },
+    {
+        "job_id": "85013775",
+        "job_title": "System Analyst (Fresh Graduate)",
+        "company": "PT Hashmicro Solusi Indonesia",
+        "listing_date": "2025-06-18T10:17:03Z"
+    },
+    {
+        "job_id": "85025595",
+        "job_title": "SAP Application Engineer",
+        "company": "PT Lami Packaging Indonesia",
+        "listing_date": "2025-06-19T02:36:59Z"
+    },
+    {
+        "job_id": "84842691",
+        "job_title": "SAP FICO Specialist",
+        "company": "PT Sampoerna Agro Tbk",
+        "listing_date": "2025-06-12T06:24:56Z"
+    },
+    {
+        "job_id": "84966733",
+        "job_title": "Finance Staff (SAP System)",
+        "company": "PT LX International Indonesia",
+        "listing_date": "2025-06-17T02:36:21Z"
+    },
+    {
+        "job_id": "84875413",
+        "job_title": "IT Business Development",
+        "company": "GML Performance Consulting",
+        "listing_date": "2025-06-12T08:37:37Z"
+    },
+    {
+        "job_id": "84949014",
+        "job_title": "IT Business Solution Analyst (SAP Function FICO)",
+        "company": "FamilyMart Indonesia",
+        "listing_date": "2025-06-16T08:15:51Z"
+    },
+    {
+        "job_id": "85010266",
+        "job_title": "IT Technical Writer (ISO Documentation Responsibility) - Yogyakarta",
+        "company": "PT Dipo Star Finance",
+        "listing_date": "2025-06-18T08:25:23Z"
+    },
+    {
+        "job_id": "85028400",
+        "job_title": "Business Consultant Manager (IoT-Telematics) - Software - Jakarta (B-118076)",
+        "company": "RGF HR Agent Indonesia",
+        "listing_date": "2025-06-19T03:45:22Z"
+    },
+    {
+        "job_id": "84947331",
+        "job_title": "SAP Consultant",
+        "company": "Private Advertiser",
+        "listing_date": "2025-06-16T07:22:51Z"
+    },
+    {
+        "job_id": "84937329",
+        "job_title": "ERP Senior Consultant",
+        "company": "PT Yonyou Network Indonesia",
+        "listing_date": "2025-06-16T02:56:38Z"
+    },
+    {
+        "job_id": "84888607",
+        "job_title": "HRIS Functional Consultant",
+        "company": "PT Amber Solusi Internasional",
+        "listing_date": "2025-06-13T01:51:59Z"
+    },
+    {
+        "job_id": "84997894",
+        "job_title": "Senior Presales Engineer",
+        "company": "PT Advance Intelligence Indonesia",
+        "listing_date": "2025-06-18T03:11:22Z"
+    },
+    {
+        "job_id": "84983037",
+        "job_title": "SAP ABAP",
+        "company": "PT Nawa Data Solutions",
+        "listing_date": "2025-06-17T09:37:11Z"
+    },
+    {
+        "job_id": "84877813",
+        "job_title": "Information Technology SAP CO/PS/PM/MM Deputy Department Head",
+        "company": "Agung Sedayu Group",
+        "listing_date": "2025-06-12T10:22:26Z"
+    },
+    {
+        "job_id": "84908835",
+        "job_title": "T24 Developer (Temenos24 Developer)",
+        "company": "PT Indocyber Global Teknologi",
+        "listing_date": "2025-06-13T10:18:36Z"
+    },
+    {
+        "job_id": "84915343",
+        "job_title": "Software Engineer, Fullstack (Payment)",
+        "company": "PT Solusi Transportasi Indonesia",
+        "listing_date": "2025-06-13T22:53:56Z"
+    },
+    {
+        "job_id": "84861833",
+        "job_title": "Devops Middle",
+        "company": "Private Advertiser",
+        "listing_date": "2025-06-12T02:48:43Z"
+    },
+    {
+        "job_id": "84915342",
+        "job_title": "Software Engineer, Fullstack - Payments Experience",
+        "company": "PT Solusi Transportasi Indonesia",
+        "listing_date": "2025-06-13T22:53:53Z"
+    },
+    {
+        "job_id": "84876227",
+        "job_title": "Data Migration Lead - SAP PROJECT",
+        "company": "PT Adecco Personnel Indonesia",
+        "listing_date": "2025-06-12T09:12:09Z"
+    },
+    {
+        "job_id": "84872224",
+        "job_title": "Senior Software Engineer, Backend (Payments Experience)",
+        "company": "PT Solusi Transportasi Indonesia",
+        "listing_date": "2025-06-12T06:34:21Z"
+    },
+    {
+        "job_id": "85028078",
+        "job_title": "Senior PLM Operations Consultant",
+        "company": "PT. HAND Solutions Indonesia",
+        "listing_date": "2025-06-19T03:38:13Z"
+    },
+    {
+        "job_id": "84994897",
+        "job_title": "SAP Consultant FICO",
+        "company": "PT Mitra Solusi Telematika",
+        "listing_date": "2025-06-18T01:53:11Z"
+    },
+    {
+        "job_id": "85004712",
+        "job_title": "SAP BASIS Consultant - (For Banking Industry)",
+        "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+        "listing_date": "2025-06-18T03:30:59Z"
+    },
+    {
+        "job_id": "84997068",
+        "job_title": "System/Solution Architect",
+        "company": "PT Murni Solusindo Nusantara",
+        "listing_date": "2025-06-18T02:48:12Z"
+    },
+    {
+        "job_id": "84984991",
+        "job_title": "Business Operation Support (Financial Service)",
+        "company": "PT Mid Solusi Nusantara (MEKARI)",
+        "listing_date": "2025-06-17T09:24:16Z"
+    },
+    {
+        "job_id": "84972044",
+        "job_title": "Senior SAP Consultant (FICO)",
+        "company": "PT. Hand Solutions Indonesia",
+        "listing_date": "2025-06-17T04:53:43Z"
+    },
+    {
+        "job_id": "84972037",
+        "job_title": "Mid-Level SAP Consultant",
+        "company": "PT. Hand Solutions Indonesia",
+        "listing_date": "2025-06-17T04:53:33Z"
+    },
+    {
+        "job_id": "84973072",
+        "job_title": "Project Manager Assc.",
+        "company": "Mitra Integrasi Informatika",
+        "listing_date": "2025-06-16T12:00:00Z"
+    },
+    {
+        "job_id": "84947314",
+        "job_title": "SAP Functional Consultant (FICO)",
+        "company": "PT. Amalura Multi Dimensi",
+        "listing_date": "2025-06-16T07:22:09Z"
+    },
+    {
+        "job_id": "84950729",
+        "job_title": "SAC Planning / BPC Consultant",
+        "company": "PT. Amalura Multi Dimensi",
+        "listing_date": "2025-06-16T09:07:24Z"
+    },
+    {
+        "job_id": "84947638",
+        "job_title": "SAP S/4 HANA HCM Lead",
+        "company": "PT. Amalura Multi Dimensi",
+        "listing_date": "2025-06-16T07:32:24Z"
+    },
+    {
+        "job_id": "84958046",
+        "job_title": "IT Business Analyst - Insurance",
+        "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+        "listing_date": "2025-06-16T10:06:42Z"
+    },
+    {
+        "job_id": "84936615",
+        "job_title": "IT Governance Lead",
+        "company": "PT Mandala Multifinance, Tbk",
+        "listing_date": "2025-06-16T02:37:41Z"
+    },
+    {
+        "job_id": "84953747",
+        "job_title": "IT Solution Consultant",
+        "company": "Asa Kreasi Interasia",
+        "listing_date": "2025-06-16T04:30:48Z"
+    },
+    {
+        "job_id": "84913052",
+        "job_title": "System Analyst (Banking Industry)",
+        "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+        "listing_date": "2025-06-13T03:54:13Z"
+    },
+    {
+        "job_id": "84882177",
+        "job_title": "IT Core Banking Specialist",
+        "company": "PT Hana Bank Indonesia",
+        "listing_date": "2025-06-12T04:53:05Z"
+    },
+    {
+        "job_id": "84874736",
+        "job_title": "Technical Engineer",
+        "company": "Infinite Business Synergy",
+        "listing_date": "2025-06-12T10:03:22Z"
+    },
+    {
+        "job_id": "84861463",
+        "job_title": "Account Executive - IT Services",
+        "company": "PT HGT Services Indonesia",
+        "listing_date": "2025-06-12T02:39:10Z"
+    },
+    {
+        "job_id": "84903264",
+        "job_title": "IT Staff",
+        "company": "Ward Servis Indonesia",
+        "listing_date": "2025-06-13T07:25:24Z"
+    },
+    {
+        "job_id": "84865868",
+        "job_title": "Internal Audit Staff",
+        "company": "PT Mandom Indonesia Tbk",
+        "listing_date": "2025-06-12T04:21:33Z"
+    }
+]
